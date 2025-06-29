@@ -708,6 +708,12 @@
         "SubCategory":"Two Way Texting"
     },
     {
+        "QuestionID":"twoWayComment",
+        "Question":"Overall Comment (Data Management , 2WT  and EHR)",
+        "Category":"Data Management & 2Wt",
+        "SubCategory":"Two Way Texting"
+    },
+    {
         "QuestionID":"ehrUsage",
         "Question":"Is the site entering VMMC data into the Electronic Health Record System (EHR)",
         "Category":"Data Management & 2Wt",
@@ -716,12 +722,6 @@
     {
         "QuestionID":"ehrEnrollmentRate",
         "Question":"Enrollment Rate: Is the percentage of  clients enrolled into E'HR, 50% or higher?",
-        "Category":"Data Management & 2Wt",
-        "SubCategory":"EHR"
-    },
-    {
-        "QuestionID":"twoWayComment",
-        "Question":"Overall Comment (Data Management , 2WT  and EHR)",
         "Category":"Data Management & 2Wt",
         "SubCategory":"EHR"
     },
