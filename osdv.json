@@ -1,212 +1,170 @@
 [
     {
-        "QuestionID":"section",
-        "Question":"### Select Section",
-        "Category":null,
-        "SubCategory":null
-    },
-    {
-        "QuestionID":"District",
-        "Question":"### Choose District",
-        "Category":null,
-        "SubCategory":null
-    },
-    {
-        "QuestionID":"facility",
-        "Question":"### Choose Facility",
-        "Category":null,
-        "SubCategory":null
-    },
-    {
-        "QuestionID":"startingMonth",
-        "Question":"### Starting Month",
-        "Category":null,
-        "SubCategory":null
-    },
-    {
-        "QuestionID":"startingYear",
-        "Question":"### Starting Year",
-        "Category":null,
-        "SubCategory":null
-    },
-    {
-        "QuestionID":"endingMonth",
-        "Question":"### Ending Month ",
-        "Category":null,
-        "SubCategory":null
-    },
-    {
-        "QuestionID":"endingYear",
-        "Question":"### Ending Year",
-        "Category":null,
-        "SubCategory":null
-    },
-    {
         "QuestionID":"clientSpaceSize",
         "Question":"Are space and client flow arranged to allow all steps to take place simultaneously without disrupting each other or affecting privacy?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"spaceCleaniness",
         "Question":"Is the facility clean (free of litter; clean floors, walls, doors, furniture)?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"waitingSpace",
         "Question":"Is there enough room (indoor or outdoor) for all clients to wait comfortably without obstructing hallways?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"examinationroomTemperature",
         "Question":"Is the temperature comfortable?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"examionationroomLighting",
         "Question":"Is the lighting sufficient to let staff perform the activities conducted correctly?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"examinationroomSpace",
         "Question":"Is the space sufficient for provider to perform a thorough exam?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"bloodPressureCuff",
         "Question":"Is a working ADULT blood pressure cuff available on site?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"scaleonSite",
         "Question":"Is a working scale available on site?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"vmmcOperatingRooms",
         "Question":"Does the site have operating theatres or operating rooms that are used for VMMC?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"operatingBeds",
         "Question":"Are the total number of operating beds adequate for the volumes of the VMMC site?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"operatingTheatreTemperature",
         "Question":"Is the temperature comfortable?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"procedureroomLighting",
         "Question":"Is the lighting sufficient to let staff perform the activities conducted correctly?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"procedureroomSpace",
         "Question":"Is the space sufficient to let all beds be used simultaneously without providers interfering with each other?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"operatingTheatreVisualPrivacy",
         "Question":"Is there visual privacy in theatre, e.g. screens between operating beds",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"operatingTheatreWater",
         "Question":"Is there running water (this includes clean water that runs from a tank or basin)?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"operatingTheatreSoap",
         "Question":"Is there hand soap or gel available?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"anaestheticDosingCharts",
         "Question":"Are anaesthetic dosing charts displayed?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"handDryingMaterial",
         "Question":"Are there clean and disposable hand drying materials available?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"recoveryroomSpace",
         "Question":"Is the space sufficient for all clients being circumcised to comfortably spend at least 30 minutes?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"recoveryroomLighting",
         "Question":"Is the lighting adequate to allow staff to monitor clients?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"recoveryroomTemperature",
         "Question":"Is  the temperature comfortable?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"OperatingTheatreComment",
         "Question":"Give a Comment to this Section",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Operation Theatre and Recovery Room"
     },
     {
         "QuestionID":"sufficientReusableSupply",
         "Question":"Over the past three months, has the reusable supply inventory been sufficient to maintain uninterrupted services?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Facility Supplies"
     },
     {
         "QuestionID":"sufficientReusableSupplyReason",
         "Question":"What is the PRIMARY  reason for the interruption?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Facility Supplies"
     },
     {
         "QuestionID":"sterileKitsCleanArea",
         "Question":"Are all sterile kits stored in a visibly clean area?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Facility Supplies"
     },
     {
         "QuestionID":"sterileKitsElevated",
         "Question":"Are all sterile kits stored elevated above the floor (e.g. on a pallet)?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Facility Supplies"
     },
     {
         "QuestionID":"sterileKitsNotTouchingWalls",
         "Question":"Are all sterile kits stored away from (not touching) outside walls?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Facility Supplies"
     },
     {
         "QuestionID":"sterileKitsNotTouchingCeiling",
         "Question":"Are all sterile kits stored away from (not touching) ceiling?",
-        "Category":"A. Facilities Supplies, Emerg ",
+        "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Facility Supplies"
     },
     {
@@ -261,79 +219,79 @@
         "QuestionID":"clientHTSPrivacy",
         "Question":"HTS Room(s) \u2013 Is there visual and auditory privacy (other clients will not see testing; no client traffic through room; screens or partitions are acceptable)?",
         "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Facility Supplies"
+        "SubCategory":"Facilities Supplies -> HTS Safety  & STI and Condom Program"
     },
     {
         "QuestionID":"htsContainers",
         "Question":"Are sharps and waste containers available and being used for disposal of lancets, syringes and other sharps?",
         "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Facility Supplies"
+        "SubCategory":"Facilities Supplies -> HTS Safety  & STI and Condom Program"
     },
     {
         "QuestionID":"htsroomSanitationSupplies",
         "Question":"Are any of the following available? (If available Select Relevant Checkbox)",
         "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Facility Supplies"
+        "SubCategory":"Facilities Supplies -> HTS Safety  & STI and Condom Program"
     },
     {
         "QuestionID":"htsdisposableGloves",
         "Question":"Are disposable gloves consistently used by all staff performing HIV testing?",
         "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Facility Supplies"
+        "SubCategory":"Facilities Supplies -> HTS Safety  & STI and Condom Program"
     },
     {
         "QuestionID":"siteCondoms",
         "Question":"Does this site have an exemption to providing condoms written into its contract either with USG or with the prime partner?",
         "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Facility Supplies"
+        "SubCategory":"Facilities Supplies -> HTS Safety  & STI and Condom Program"
     },
     {
         "QuestionID":"condomDemonstration",
         "Question":"Are there condom demonstration models at various points of service?",
         "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Facility Supplies"
+        "SubCategory":"Facilities Supplies -> HTS Safety  & STI and Condom Program"
     },
     {
         "QuestionID":"condom-stock-outs",
         "Question":"Has there been any condom stock outs in the past 3 months due to ANY of these: no order placed (review records), order not received or demand higher.",
         "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Facility Supplies"
+        "SubCategory":"Facilities Supplies -> HTS Safety  & STI and Condom Program"
     },
     {
         "QuestionID":"condomsAvailableToday",
         "Question":"Are condoms available today?",
         "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Facility Supplies"
+        "SubCategory":"Facilities Supplies -> HTS Safety  & STI and Condom Program"
     },
     {
         "QuestionID":"condomsExpiringStatus",
         "Question":"Do the condoms have at least one month remaining before they expire?(If no condoms available=No)",
         "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Facility Supplies"
+        "SubCategory":"Facilities Supplies -> HTS Safety  & STI and Condom Program"
     },
     {
         "QuestionID":"dentalDams",
         "Question":"Are Dental Dams available?",
         "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Facility Supplies"
+        "SubCategory":"Facilities Supplies -> HTS Safety  & STI and Condom Program"
     },
     {
         "QuestionID":"condomCompatibleLubricants",
         "Question":"Are there Condom Compatible Lubricants",
         "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Facility Supplies"
+        "SubCategory":"Facilities Supplies -> HTS Safety  & STI and Condom Program"
     },
     {
         "QuestionID":"is_there_a_plan_for_monitoring_condom_supply",
         "Question":"Is there a plan for monitoring condom supply?",
         "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Facility Supplies"
+        "SubCategory":"Facilities Supplies -> HTS Safety  & STI and Condom Program"
     },
     {
         "QuestionID":"htsandSTIComment",
         "Question":"Give a comment to this Section",
         "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Medicines"
+        "SubCategory":"Facilities Supplies -> HTS Safety  & STI and Condom Program"
     },
     {
         "QuestionID":"medicinesTemperature",
@@ -426,12 +384,6 @@
         "SubCategory":"Medicines"
     },
     {
-        "QuestionID":"medicinesComment",
-        "Question":"Give a comment to this Section",
-        "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Medicines"
-    },
-    {
         "QuestionID":"documentationofMedicationsDispensed",
         "Question":"Is there documentation of medications dispensed?",
         "Category":"Facilities Supplies, Emergency ",
@@ -446,6 +398,12 @@
     {
         "QuestionID":"writtenProtocolMedicalDispensing",
         "Question":"Is a written protocol for medication dispensing and documentation available?",
+        "Category":"Facilities Supplies, Emergency ",
+        "SubCategory":"Medicines"
+    },
+    {
+        "QuestionID":"medicinesComment",
+        "Question":"Give a comment to this Section",
         "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Medicines"
     },
@@ -690,6 +648,12 @@
         "SubCategory":"Client Record Review "
     },
     {
+        "QuestionID":"month_year_repeat_group",
+        "Question":"Triangulating Data across VMMC source documents",
+        "Category":"Data Management & 2Wt",
+        "SubCategory":"Data Triangulation"
+    },
+    {
         "QuestionID":"enrollmentRate2WT",
         "Question":"Enrollment Rate: Is the percentage of eligible clients enrolled in two-way texting ,50% or higher?",
         "Category":"Data Management & 2Wt",
@@ -757,7 +721,7 @@
     },
     {
         "QuestionID":"twoWayComment",
-        "Question":"Overall Comment (Data Management and 2WT)",
+        "Question":"Overall Comment (Data Management , 2WT  and EHR)",
         "Category":"Data Management & 2Wt",
         "SubCategory":"EHR"
     },
@@ -876,20 +840,8 @@
         "SubCategory":"Undersaved Populations & Community Involvement"
     },
     {
-        "QuestionID":"dcTargetPopulationComment",
-        "Question":"Give a comment to the Selected Population Groups",
-        "Category":"Demand Creation",
-        "SubCategory":"Undersaved Populations & Community Involvement"
-    },
-    {
         "QuestionID":"copy-1-of-dcTargetPopulation",
         "Question":"Select MOHCC Cadres that are involved in Demand Creation ",
-        "Category":"Demand Creation",
-        "SubCategory":"Undersaved Populations & Community Involvement"
-    },
-    {
-        "QuestionID":"copy-1-of-dcTargetPopulationComment",
-        "Question":"Give a comment to the Selected Population Groups",
         "Category":"Demand Creation",
         "SubCategory":"Undersaved Populations & Community Involvement"
     },
@@ -900,14 +852,8 @@
         "SubCategory":"Undersaved Populations & Community Involvement"
     },
     {
-        "QuestionID":"dcCommunityCadresComment",
-        "Question":"Give a comment to the Selected Influential Community Cadres",
-        "Category":"Demand Creation",
-        "SubCategory":"Undersaved Populations & Community Involvement"
-    },
-    {
         "QuestionID":"dcInnovation",
-        "Question":"Any DC  innovations introduced\/implemented by the site  DC in the last 6 months?\".",
+        "Question":"Any DC  innovations introduced\/implemented by the site  DC in the last 6 months?",
         "Category":"Demand Creation",
         "SubCategory":"Undersaved Populations & Community Involvement"
     },
@@ -1515,7 +1461,7 @@
         "QuestionID":"ageofClienthts",
         "Question":"Age of client",
         "Category":"Communication",
-        "SubCategory":null
+        "SubCategory":"HIV Testing and Counseling"
     },
     {
         "QuestionID":"htsScrrenToolUsage",
@@ -1911,504 +1857,504 @@
         "QuestionID":"Is_this_a_follow_up_clinic_visit_post_VMMC",
         "Question":"Is this a follow up clinic visit post VMMC?",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 7th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"ageofClientfollowup",
         "Question":"Age of client",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 8th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Reviewer_observed_follow-up_clinic_visit_on",
         "Question":"Reviewer observed follow-up clinic visit on  ___  post-operative day\/week (select day)",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 9th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Provider_ensured_client_privacy_during_examination",
         "Question":"Provider ensured client privacy during examination",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 10th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Care_provider_completed_a_physical_exam",
         "Question":"Care provider completed a physical exam",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 11th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"information_on_the_status_of_clients_healing",
         "Question":"The care giver\/counselor gave information on the status of client\u2019s healing",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 12th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Emphasized_the_need_for_six_week_abstinence_period_during_VMMC_healing",
         "Question":"Emphasized the need for six week abstinence period during VMMC healing",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 13th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Emphasized_ways_to_improve_compliance_with_abstinenceFu",
         "Question":"Emphasized ways to improve compliance with abstinence",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 14th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Explained_effective_wound_care_and_pain_management",
         "Question":"Explained effective wound care and pain management",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 15th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Explained_importance_of_not_applying_any_home_or_traditional_remedies",
         "Question":"Explained importance of not applying any home or traditional remedies, such as herbs, animal dung or ash to the MC wound (emphasis on associated risks)",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 16th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Discussed_warning_signs_of_adverse_events",
         "Question":"Discussed warning signs of adverse events and recommendations for managing them",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 17th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Gave_procedures_for_contacting_VMMC_staff",
         "Question":"Gave procedures for contacting VMMC staff",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 18th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Gave_accurate_information",
         "Question":"Gave accurate information",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 19th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Communicated_in_clear_simple_termsFu",
         "Question":"Communicated in clear, simple terms",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 20th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Checked_for_client_understanding_throughout_sessionFu",
         "Question":"Checked for client understanding throughout session",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 21th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Engaged_client_with_respect_and_without_judgmentFu",
         "Question":"Engaged client with respect and without judgment",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 22th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Affirmed_client_VMMC_decision",
         "Question":"Affirmed client\u2019s VMMC decision and encouraged him to bring in friends, peers, male relatives",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 23th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Was_the_visit_documented_in_CIR_and_Register",
         "Question":"Was the visit documented in CIR and Register?",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 24th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Communication_to_Clients_-_HIV_and_MCEducation",
         "Question":"Communication to Clients - HIV and MC Education and Counseling Materials",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 25th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Examine_all_in-service_communication_materials",
         "Question":"Examine all in-service communication materials, including flip-charts, pamphlets, brochures, client guidance and instructional hand-outs",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 26th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"On-site_signage_is_sufficient_to_direct_clients",
         "Question":"On-site signage is sufficient to direct clients to VMMC service locations",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 27th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"testingSpace.1",
         "Question":"Conducted test in clean, uncluttered, private space",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 28th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"htsAlgorithm.1",
         "Question":"Could refer to prominently posted, accurate HIV testing algorithm",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 29th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"gloves.1",
         "Question":"Wore gloves",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 30th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"testingKitCurrent.1",
         "Question":"Used a current, secure test kit (sealed with desiccant, kept in proper temperature controlled space)",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 31th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"disposalofLancetandLotion.1",
         "Question":"Immediately, properly disposed of lancet and cotton",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 32th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"workingTimePiece.1",
         "Question":"Used working timepiece to time the test interval",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 33th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"testingTimeInterval.1",
         "Question":"Read the test result only after recommended time interval",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 34th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"testResultsProvidedTimeously.1",
         "Question":"Gave client test results without undue delay",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 35th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"testResultNegative.1",
         "Question":"Was the test result Negative?",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 36th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"resultsWithHeld.1",
         "Question":"Withheld results",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 37th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"emphasisedRetestingAfter3Months.1",
         "Question":"Explained implications of negative result and encourage retesting after 3months for those at risk",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 38th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"remindedVMMCisPartialProtectionofHIV.1",
         "Question":"Reminded client that VMMC is only partially protective against HIV",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 39th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Emphasized_how_VMMC_must_be_combined_with_condom.1",
         "Question":"Emphasized how VMMC must be combined with condom use and other HIV prevention practices to minimize risk of HIV infection",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 40th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Was_the_test_result_Positive.1",
         "Question":"Was the test result Positive",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 41th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Withheld_results_Positive.1",
         "Question":"Withheld results\n ",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 42th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Conducted_confirmatory_test_according_to_national_algorithm.1",
         "Question":"Conducted confirmatory test according to national algorithm\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 43th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Delivered_positive_results_directly_and_clearly.1",
         "Question":"Delivered positive results directly and clearly\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 44th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Offered_client_appropriate_emotional_support.1",
         "Question":"Offered client appropriate emotional support\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 45th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Addressed_client_HIV_understanding_and_misperceptions.1",
         "Question":"Addressed client\u2019s HIV understanding and misperceptions\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 46th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Encouraged_disclosure_to_partners_and_offered_assistance.1",
         "Question":"Encouraged disclosure to partner(s) and offered assistance\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 47th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Encourage_partner_and_family_HIV_testing.1",
         "Question":"Encourage partner and family HIV testing\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 48th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Affirmed_that_client_could_still_undergo_VMMC.1",
         "Question":"Affirmed that client could still undergo VMMC but it would not reduce risk of HIV transmission to partners\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 49th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Explained_that_VMMC_recovery_may_take_longer_when_HIV_positive.1",
         "Question":"Explained that VMMC recovery may take longer when HIV positive\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 50th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Emphasized_importance_of_consistent_proper_condom_use.1",
         "Question":"Emphasized importance of consistent, proper condom use\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 51th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Provided_information_on_positive_living_for_persons_testing_HIV_positive.1",
         "Question":"Provided information on positive living for persons testing HIV positive\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 52th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Initiated_referral_linkage_to_HIV_care_and_treatment.1",
         "Question":"Initiated referral (linkage) to HIV care and treatment\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 53th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Communication_to_Clients.1",
         "Question":"Communication to Clients - Post-Operative, Pre-discharge Client Observation and Counseling Session\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 54th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Recorded_client_temperature_on_arrival.1",
         "Question":"Recorded client temperature on arrival\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 55th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Recorded_client_blood_pressure_on_arrival.1",
         "Question":"Recorded client blood pressure on arrival\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 56th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Recorded_client_pulse_and_respiration_rate_on_arrival.1",
         "Question":"Recorded client pulse and respiration rate on arrival\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 57th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Recorded_client_temperature_15_minutes_after_arrival.1",
         "Question":"Recorded client temperature 15 minutes after arrival\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 58th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Recorded_client_blood_pressure_15_minutes_after_arrival.1",
         "Question":"Recorded client blood pressure 15 minutes after arrival\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 59th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Recorded_client_pulse_and_respiration_rate_15_minutes_after_arrival.1",
         "Question":"Recorded client pulse and respiration rate 15 minutes after arrival\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 60th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Reaffirmed_need_for_six_week_abstinence_period_during_VMMC_healing.1",
         "Question":"Reaffirmed need for six week abstinence period during VMMC healing\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 61th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Emphasized_ways_to_improve_compliance_with_abstinence.1",
         "Question":"Emphasized ways to improve compliance with abstinence\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 62th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Gave_oral_and_written_instructions_for_contacting_VMMC_staff.1",
         "Question":"Gave oral and written instructions for contacting VMMC staff\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 63th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Provided_wound_care_flier_and_clear_accurate_instructions_on_wound_care.1",
         "Question":"Provided wound care flier and clear, accurate instructions on wound care\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 64th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Provided_instructions_for_pain_management.1",
         "Question":"Provided instructions for pain management\n",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 65th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Described_warning_signs_of_adverse_events_and_recommendations_for_managing.1",
         "Question":"\nDescribed warning signs of adverse events and recommendations for managing",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 66th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Warned_against_applying_any_home_or_traditional_remedies.1",
         "Question":"Warned against applying any home or traditional remedies, such as  herbs, animal dung or ash to the MC wound (emphasis on associated risks including tetanus)",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 67th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Communicated_in_clear_simple_terms.1",
         "Question":"Communicated in clear, simple terms",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 68th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Gave_accurate_information_note_errors_of_fact.1",
         "Question":"Gave accurate information (note errors of fact)",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 69th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Checked_for_client_understanding_throughout_session.1",
         "Question":"Checked for client understanding throughout session",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 70th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Engaged_client_with_respect_and_without_judgment.1",
         "Question":"Engaged client with respect and without judgment",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 71th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Affirmed_clients_VMMC_decision",
         "Question":"Affirmed client\u2019s VMMC decision and encouraged him to bring in friends, peers, male relatives",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 72th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Was_the_visit_documented_in_CIR_and_RegisterFu",
         "Question":"Was the visit documented in CIR and Register?",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 73th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Communication_to_Clients_-_HIV_and_MCEducationFu",
         "Question":"Communication to Clients - HIV and MC Education and Counseling Materials",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 74th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Examine_all_in-service_communication_materialsFu",
         "Question":"Examine all in-service communication materials, including flip-charts, pamphlets, brochures, client guidance and instructional hand-outs",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 75th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"On-site_signage_is_sufficient_to_direct_clients_to_VMMC_service_locations",
         "Question":"On-site signage is sufficient to direct clients to VMMC service locations",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 76th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"On-site_materials_adequately_support_in-service_communication",
         "Question":"On-site materials adequately support in-service communication",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 77th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Materials_are_legible_and_in_good-condition",
         "Question":"Materials are legible and in good-condition (i.e., not faded, worn, or distorted)",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 78th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Materials_tailored_to_specific_audiences_are_available",
         "Question":"Materials tailored to specific audiences are available (e.g. adolescent & adult males, wives\/partners, parents, guardians, other  home caregivers)",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 79th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Clinic_staff_can_explain_or_show_how_they_use_these_materials_in_client_education_and_counseling",
         "Question":"Clinic staff can explain or show how they use these materials in client education and counseling",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 80th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Communication_to_Clients_-_Information_on_Materials",
         "Question":"Communication to Clients - Information on Materials",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 81th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"basic_hiv_and_aids_risk_reduction_information_including_other_stis",
         "Question":"Basic HIV and AIDS risk reduction information (including other STIs)",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 82th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Modes_of_HIV_transmission_and_relative_HIV-risk_assessment",
         "Question":"Modes of HIV transmission and relative HIV-risk assessment",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 83th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Guidance_for_reducing_individual_HIV_risk",
         "Question":"Guidance for reducing individual HIV risk",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 84th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Information_on_need_for_abstinence_during_VMMC_healing",
         "Question":"Information on need for abstinence during VMMC healing",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 85th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Wound_care_instructions",
         "Question":"Wound care instructions",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 86th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Warning_against_applying_any_home_or_tradional_remedies",
         "Question":"Warning against applying any home or tradional remedies, such as  herbs, animal dung or ash to the VMMC wound (emphasis on associated risks including tetanus)",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 87th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Specific_contact_information_for_reaching_VMMC_staff",
         "Question":"Specific contact information for reaching VMMC staff",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 88th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"Emergency_contact_number_operational",
         "Question":"Emergency contact number operational (dial the number, if possible, to confirm that it is in service)",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 89th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     },
     {
         "QuestionID":"give_overall_comment_communication",
         "Question":"Give overall Comment (Communication)",
         "Category":"Communication",
-        "SubCategory":"Follow-up Clinic Visit: 2nd , 90th day, or later after VMMC"
+        "SubCategory":"Follow-up ->  Clinic Visit After VMMC"
     }
 ]
