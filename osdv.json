@@ -174,12 +174,6 @@
         "SubCategory":"Facility Supplies"
     },
     {
-        "QuestionID":"otherKit",
-        "Question":"Specify the other  kit you selected ?",
-        "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Facility Supplies"
-    },
-    {
         "QuestionID":"suppliesAvailable",
         "Question":"Which of the following equipment and supplies are available? ( If available tick relevant checkbox)",
         "Category":"Facilities Supplies, Emergency ",
