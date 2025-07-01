@@ -1,0 +1,439 @@
+QuestionID,Question,Category,SubCategory
+clientSpaceSize,Are space and client flow arranged to allow all steps to take place simultaneously without disrupting each other or affecting privacy?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+spaceCleaniness,"Is the facility clean (free of litter; clean floors, walls, doors, furniture)?","Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+waitingSpace,Is there enough room (indoor or outdoor) for all clients to wait comfortably without obstructing hallways?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+examinationroomTemperature,Is the temperature comfortable?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+examionationroomLighting,Is the lighting sufficient to let staff perform the activities conducted correctly?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+examinationroomSpace,Is the space sufficient for provider to perform a thorough exam?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+bloodPressureCuff,Is a working ADULT blood pressure cuff available on site?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+scaleonSite,Is a working scale available on site?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+vmmcOperatingRooms,Does the site have operating theatres or operating rooms that are used for VMMC?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+operatingBeds,Are the total number of operating beds adequate for the volumes of the VMMC site?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+operatingTheatreTemperature,Is the temperature comfortable?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+procedureroomLighting,Is the lighting sufficient to let staff perform the activities conducted correctly?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+procedureroomSpace,Is the space sufficient to let all beds be used simultaneously without providers interfering with each other?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+operatingTheatreVisualPrivacy,"Is there visual privacy in theatre, e.g. screens between operating beds","Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+operatingTheatreWater,Is there running water (this includes clean water that runs from a tank or basin)?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+operatingTheatreSoap,Is there hand soap or gel available?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+anaestheticDosingCharts,Are anaesthetic dosing charts displayed?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+handDryingMaterial,Are there clean and disposable hand drying materials available?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+recoveryroomSpace,Is the space sufficient for all clients being circumcised to comfortably spend at least 30 minutes?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+recoveryroomLighting,Is the lighting adequate to allow staff to monitor clients?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+recoveryroomTemperature,Is  the temperature comfortable?,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+OperatingTheatreComment,Give a Comment to this Section,"Facilities Supplies, Emergency ",Operation Theatre and Recovery Room
+sufficientReusableSupply,"Over the past three months, has the reusable supply inventory been sufficient to maintain uninterrupted services?","Facilities Supplies, Emergency ",Facility Supplies
+sterileKitsCleanArea,Are all sterile kits stored in a visibly clean area?,"Facilities Supplies, Emergency ",Facility Supplies
+sterileKitsElevated,Are all sterile kits stored elevated above the floor (e.g. on a pallet)?,"Facilities Supplies, Emergency ",Facility Supplies
+sterileKitsNotTouchingWalls,Are all sterile kits stored away from (not touching) outside walls?,"Facilities Supplies, Emergency ",Facility Supplies
+sterileKitsNotTouchingCeiling,Are all sterile kits stored away from (not touching) ceiling?,"Facilities Supplies, Emergency ",Facility Supplies
+availableKits,Indicate whether each type of kit is being used at this site?,"Facilities Supplies, Emergency ",Facility Supplies
+suppliesAvailable,Which of the following equipment and supplies are available? ( If available tick relevant checkbox),"Facilities Supplies, Emergency ",Facility Supplies
+temperatureHIVtestKits,Are HIV test kits stored in a temperature-controlled or temperature monitored environment? (Verify the manufacturer’s temperature specifications),"Facilities Supplies, Emergency ",Facility Supplies
+storageforRTKs,Is there adequate and safe storage space for RTKs?,"Facilities Supplies, Emergency ",Facility Supplies
+stock-outRTKs,Has there been a stock-out of RTKs in the past 3 months?,"Facilities Supplies, Emergency ",Facility Supplies
+stock-outRTKstoPatientNotTested,Has a stock-out of RTKs in the past 3 months resulted in a patient not being tested (i.e. 1 test in the national algorithm substituted for another)?,"Facilities Supplies, Emergency ",Facility Supplies
+suppliesComment,Give a comment to this Section,"Facilities Supplies, Emergency ",Facility Supplies
+clientHTSPrivacy,HTS Room(s) – Is there visual and auditory privacy (other clients will not see testing; no client traffic through room; screens or partitions are acceptable)?,"Facilities Supplies, Emergency ",Facilities Supplies -> HTS Safety  & STI and Condom Program
+htsContainers,"Are sharps and waste containers available and being used for disposal of lancets, syringes and other sharps?","Facilities Supplies, Emergency ",Facilities Supplies -> HTS Safety  & STI and Condom Program
+htsroomSanitationSupplies,Are any of the following available? (If available Select Relevant Checkbox),"Facilities Supplies, Emergency ",Facilities Supplies -> HTS Safety  & STI and Condom Program
+htsdisposableGloves,Are disposable gloves consistently used by all staff performing HIV testing?,"Facilities Supplies, Emergency ",Facilities Supplies -> HTS Safety  & STI and Condom Program
+siteCondoms,Does this site have an exemption to providing condoms written into its contract either with USG or with the prime partner?,"Facilities Supplies, Emergency ",Facilities Supplies -> HTS Safety  & STI and Condom Program
+condomDemonstration,Are there condom demonstration models at various points of service?,"Facilities Supplies, Emergency ",Facilities Supplies -> HTS Safety  & STI and Condom Program
+condom-stock-outs,"Has there been any condom stock outs in the past 3 months due to ANY of these: no order placed (review records), order not received or demand higher.","Facilities Supplies, Emergency ",Facilities Supplies -> HTS Safety  & STI and Condom Program
+condomsAvailableToday,Are condoms available today?,"Facilities Supplies, Emergency ",Facilities Supplies -> HTS Safety  & STI and Condom Program
+condomsExpiringStatus,Do the condoms have at least one month remaining before they expire?(If no condoms available=No),"Facilities Supplies, Emergency ",Facilities Supplies -> HTS Safety  & STI and Condom Program
+dentalDams,Are Dental Dams available?,"Facilities Supplies, Emergency ",Facilities Supplies -> HTS Safety  & STI and Condom Program
+condomCompatibleLubricants,Are there Condom Compatible Lubricants,"Facilities Supplies, Emergency ",Facilities Supplies -> HTS Safety  & STI and Condom Program
+is_there_a_plan_for_monitoring_condom_supply,Is there a plan for monitoring condom supply?,"Facilities Supplies, Emergency ",Facilities Supplies -> HTS Safety  & STI and Condom Program
+htsandSTIComment,Give a comment to this Section,"Facilities Supplies, Emergency ",Facilities Supplies -> HTS Safety  & STI and Condom Program
+medicinesTemperature,"Medicines - Are these stored in a temperature-controlled (shaded, ventilated) or monitored (thermometer, temperature log) environment?","Facilities Supplies, Emergency ",Medicines
+stiMedicines,STI Medicines – Are these available on site?,"Facilities Supplies, Emergency ",Medicines
+availableDrugs,"Are the following drugs available? ( If available , tick the relevant checkbox)","Facilities Supplies, Emergency ",Medicines
+stiMedicinesStockOuts,STI Medicines – Has the site been free of stock outs for the past 3 months for each of the drugs below? (If a drug evaluates to true for the criteria of this question tick the relevant checkbox),"Facilities Supplies, Emergency ",Medicines
+oralAnalgesics,Are oral analgesics available on site?,"Facilities Supplies, Emergency ",Medicines
+antibiotics,Are these available (If a drug evaluates to true for the criteria of this question tick the relevant checkbox),"Facilities Supplies, Emergency ",Medicines
+oralAnalgesicsStockOut,Has the site been free of stock outs of oral analgesics for the past 3 months?,"Facilities Supplies, Emergency ",Medicines
+medicineStockouts,Has the site been free of stock outs for any of these medicines in the past 3 months?,"Facilities Supplies, Emergency ",Medicines
+local_anesthetics__has_the_site_been_free_of_stock_outs_for_the_past_3_mont,Local Anesthetics – Has the site been free of stock outs for the past 3 months on the following?,"Facilities Supplies, Emergency ",Medicines
+medicineStorage,Medicines Storage – Are medicines stored in a clean and dry area?,"Facilities Supplies, Emergency ",Medicines
+medicinesSecureArea,Are medicines stored in a secure area?,"Facilities Supplies, Emergency ",Medicines
+medicinesLabelling,Are medicines clearly labeled?,"Facilities Supplies, Emergency ",Medicines
+medicinesOrganisation,Are medicines clearly organized?,"Facilities Supplies, Emergency ",Medicines
+medicinesDispensed,Are older medicines dispensed first?,"Facilities Supplies, Emergency ",Medicines
+medicinesShelflife,Are all the medicines within the shelf life?,"Facilities Supplies, Emergency ",Medicines
+medicinesComment,Give a comment to this Section,"Facilities Supplies, Emergency ",Medicines
+documentationofMedicationsDispensed,Is there documentation of medications dispensed?,"Facilities Supplies, Emergency ",Medicines
+dispensingRecordsUptodate,Look at 2 pages of logbook. Are dispensing records complete and up-to-date?,"Facilities Supplies, Emergency ",Medicines
+writtenProtocolMedicalDispensing,Is a written protocol for medication dispensing and documentation available?,"Facilities Supplies, Emergency ",Medicines
+wastesegregated,Is infectious waste segregated from common waste with separate waste containers (i.e. not co-mingled)?,"Facilities Supplies, Emergency ",Waste Management
+loose_non_containerized,"Is loose, non-containerized infectious waste present inside or outside of the facility?","Facilities Supplies, Emergency ",Waste Management
+wasteContainers,Are syringes and sharps collected in rigid containers that are WHO approved?,"Facilities Supplies, Emergency ",Waste Management
+disposal_of_non_reusable_instruments,Are used non reusable instruments properly disposed?,"Facilities Supplies, Emergency ",Waste Management
+colorCodedContainers,Are color-coded and/or labeled waste containers located at all point-of-care locations?,"Facilities Supplies, Emergency ",Waste Management
+wasteManagementJobAids,Are job aids posted that provide segregation guidance?,"Facilities Supplies, Emergency ",Waste Management
+non_burn_technology,Is on-site treatment of infectious waste conducted using non-burn technology such as autoclaves and shredders?,"Facilities Supplies, Emergency ",Waste Management
+fenced_lockable_waste_disposal_area,"Does this facility have a functional, fenced and lockable waste disposal area?","Facilities Supplies, Emergency ",Waste Management
+incineratorAutowayPit,Does this facility have a functional incinerator/autoway pit?,"Facilities Supplies, Emergency ",Waste Management
+incinerator,"Is on-site treatment of infectious waste conducted by high temperature incineration, & is incinerator operation & maintenance documented in logbooks?","Facilities Supplies, Emergency ",Waste Management
+incineratorPollutionControl,Do the incinerators have air pollution-control devices?,"Facilities Supplies, Emergency ",Waste Management
+IncineratorSecure,Is the incinerator secure?,"Facilities Supplies, Emergency ",Waste Management
+wastetemporaryStorage,"Is infectious waste temporarily stored in a secure area, protected from the weather, with offsite treatment done by contractor with close supervision?","Facilities Supplies, Emergency ",Waste Management
+wasteContainersAtBed,Is there a complete set of segregated waste containers at each bed?,"Facilities Supplies, Emergency ",Waste Management
+medicineDispensingComment,Give a comment to this Section,"Facilities Supplies, Emergency ",Waste Management
+staffabletoExplainEmergencyProcedures,Are staff able to explain the correct procedures to follow if there was an accidental needle stick/ cut/splash/exposure to blood? (verify the answer).,"Facilities Supplies, Emergency ",Emergency Management
+staffKnowledgeonReportingStructure,Are staff able to correctly identify who to report to? (Reviewer should verify that the answer is correct).,"Facilities Supplies, Emergency ",Emergency Management
+staffPEPeligibility,Are staff able to correctly identify where to get an evaluation for PEP eligibility? (verify with site leadership that the answer is correct).,"Facilities Supplies, Emergency ",Emergency Management
+staffPEPTimeframe,Are staff able to correctly explain the time frame in which an exposed person needs to start PEP? (within 72 hours and includes HIV testing).,"Facilities Supplies, Emergency ",Emergency Management
+siteType,Is this a fixed site?,"Facilities Supplies, Emergency ",Emergency Management
+pepMedicinesAvailability,Are PEP medicines available and accessible on-site? (Reviewer should observe and verify).,"Facilities Supplies, Emergency ",Emergency Management
+packsKitsAvailable,Are PEP starter packs/kits available and accessible for use (often found in the jump bag)? (Reviewer should observe and verify).,"Facilities Supplies, Emergency ",Emergency Management
+traininingEmergencyProcedures,"In the last 12 months, has any training in emergency procedures including anaphylaxis management and resuscitation been conducted?","Facilities Supplies, Emergency ",Emergency Management
+followuptoEmergencyYes,"If YES, in the past 12 months have ALL clinical staff been trained in these emergency procedures?","Facilities Supplies, Emergency ",Emergency Management
+trainingonAdrenaline,Have staff been trained to deliver adrenaline for anaphylaxis in the past 12 months?,"Facilities Supplies, Emergency ",Emergency Management
+clinicalStaffTraining,"If YES, have at least 50% of clinical staff been trained in the past 12 months?","Facilities Supplies, Emergency ",Emergency Management
+emergencyMaterialsinStock,"Within the last 6 months, have all emergency materials and supplies been continuously in stock? (i.e., NO stock-outs).","Facilities Supplies, Emergency ",Emergency Management
+emergencyCart,"Does the site have an emergency cart, tray or jump bag?.","Facilities Supplies, Emergency ",Emergency Management
+emergencyCartYes,"If YES, it located in the procedure room when procedures are being done? (Reviewer should observe and verify).","Facilities Supplies, Emergency ",Emergency Management
+emergencyCartStatus,"Are ALL of the emergency medicines in the cart, tray or jump bag unexpired? (Reviewer should observe and verify).","Facilities Supplies, Emergency ",Emergency Management
+documentationStatus,Is there any documentation that any expired items were replaced?,"Facilities Supplies, Emergency ",Emergency Management
+emergencySuppliesStatus,Are all these required emergency supplies available in the areas where VMMC surgery is provided at the site and not visibly broken?,"Facilities Supplies, Emergency ",Emergency Management
+highlyRecommendedItems,"Are the following highly recommended items available at this site in the cart, tray, or jump bag?","Facilities Supplies, Emergency ",Emergency Management
+emergencyManagementComment,"Overall Comment (Facilities Supplies, Equipment  and Emergency Management)","Facilities Supplies, Emergency ",Emergency Management
+recordsSecure,"Are records kept in a safe, secure place?",Data Management & 2Wt,Client Record Review 
+recordFilling,Are records properly filed?,Data Management & 2Wt,Client Record Review 
+sampleCIFChecking,Are all selected CIF forms (sample of 25) filled-in completely. Check for the following:,Data Management & 2Wt,Client Record Review 
+consentForms,Do all CIFs have valid consent Forms Attached,Data Management & 2Wt,Client Record Review 
+meOverallComment,Give Comment to this Section,Data Management & 2Wt,Client Record Review 
+enrollmentRate2WT,"Enrollment Rate: Is the percentage of eligible clients enrolled in two-way texting ,50% or higher?",Data Management & 2Wt,Two Way Texting
+demographicAnalysis2WT,Demographic Analysis: Are there specific demographics (such as age or location) that show lower enrollment in two-way texting?,Data Management & 2Wt,Two Way Texting
+optOurRate2WT,Opt-Out Rate: Is the opt-out rate from enrollment higher than 50%?,Data Management & 2Wt,Two Way Texting
+clientSatisfaction2WT,Client Satisfaction: Do clients report high satisfaction levels with the two-way texting service?,Data Management & 2Wt,Two Way Texting
+adverseEvents2WT,Has the site had any reportable adverse events referred from 2wt,Data Management & 2Wt,Two Way Texting
+dataAccuracy2WT,Data Accuracy: Is client data from the two-way texting system accurately recorded in M&E tools ?,Data Management & 2Wt,Two Way Texting
+staffTraining2WT,"Staff Training: Are staff adequately trained in client enrollment, counseling, and task updates related to two-way texting?",Data Management & 2Wt,Two Way Texting
+clientConcerns2WT,Is there a system in place to address client questions and concerns received via text promptly?,Data Management & 2Wt,Two Way Texting
+referralDocumentation,Is there documentation of complete Referral and Linkages of VMMC clients to Other services,Data Management & 2Wt,Two Way Texting
+ehrUsage,Is the site entering VMMC data into the Electronic Health Record System (EHR),Data Management & 2Wt,EHR
+ehrEnrollmentRate,"Enrollment Rate: Is the percentage of  clients enrolled into E'HR, 50% or higher?",Data Management & 2Wt,EHR
+twoWayComment,"Overall Comment (Data Management , 2WT  and EHR)",Data Management & 2Wt,Two Way Texting
+activeMobilisers,Does the site have active and consistent mobilizers,Demand Creation,Human Resources
+inactiveMobilisers,Does the site have of infrequently active but productive mobilizers,Demand Creation,Human Resources
+introductionDC,Introduction,Demand Creation,Observed Demand Creation Session
+contentRelevance,Relevance of content,Demand Creation,Observed Demand Creation Session
+intergrationOfKeyHIVPreventionMsgs,"Integration of key HIV  prevention messages (i.e., combination prevention)",Demand Creation,Observed Demand Creation Session
+intergrationOfOtherHealthMsgs,"Integration of other relevant health messages (e.g., ASRH, drug abuse, etc)",Demand Creation,Observed Demand Creation Session
+contentAccuracy,Accuracy of content,Demand Creation,Observed Demand Creation Session
+abilitytoWindupSession,Ability to wind up session with call to action,Demand Creation,Observed Demand Creation Session
+consentFormsDC,Were Consent forms given out ?,Demand Creation,Observed Demand Creation Session
+sessionDurationDC,Was  the duration of session appropriate and enough,Demand Creation,Observed Demand Creation Session
+workplanDC,Is weekly workplan  available?,Demand Creation,DC Work Plan
+dcPlanObjectives,Are there written/displayed  broad objectives on  the DC  plan?,Demand Creation,DC Work Plan
+posters,Are  VMMC posters available on site ,Demand Creation,Programme Visibility
+iecMaterial,Are Other IEC materials available on site,Demand Creation,Programme Visibility
+age15-24dcStrategy,Does the site has innovative DC strategies for 15- 24 year age group,Demand Creation,DC Strategies
+age25-24dcStrategy,Does the site has innovative DC strategies for 25-34 year age group,Demand Creation,DC Strategies
+dcComment,Give a comment to this  section,Demand Creation,DC Strategies
+dcTargetPopulation,Select Population Groups that are targeted by the DC Team,Demand Creation,Undersaved Populations & Community Involvement
+copy-1-of-dcTargetPopulation,Select MOHCC Cadres that are involved in Demand Creation ,Demand Creation,Undersaved Populations & Community Involvement
+dcCommunityCadres,Select Infuential Community Cadres that are involved in Demand Creation,Demand Creation,Undersaved Populations & Community Involvement
+dcInnovation,Any DC  innovations introduced/implemented by the site  DC in the last 6 months?,Demand Creation,Undersaved Populations & Community Involvement
+give_overall_comment_demand_creation,Give Overall Comment (Demand Creation),Demand Creation,Undersaved Populations & Community Involvement
+patientRights,Patient Rights – Is this document posted for patients to see?,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+patientRightFollowUp,"If YES, is it in the local language?","SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+staffJobDescription,Staff Job Descriptions – Are they available on site? (Confirm with HR),"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+wasteDisposalSOP,Are guidelines or SOPs on waste disposal on site? This includes disposal of biohazardous and non-biohazardous waste and disposable instruments.,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+vmmcSurgicalManual,VMMC Surgical Manual – Is this available on site? ( WHO or current Surgical manual),"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+writtenGuidance,"Is there written guidance available at the site on properly obtaining informed consent for circumcision (e.g. SOP, counseling guidelines)?","SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+aeSOP,"Is a written SOP for classifying, documenting & managing AEs,  in the VMMC and clinical area available?","SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+medicalEmergencySOP,"Guidelines or Protocols for Medical Emergencies (anaphylaxis, etc.) – Are these available on site?","SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+aeReviewMinutes,Minutes from a site-level AE review committee reflect that all moderate/severe AEs are reviewed at least monthly & the corrective actions taken?,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+postOperativeCareGuidelines,Immediate Post-Operative Care – Are these guidelines available on site? (These may be within the surgical manual).,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+postOperativeFollowUpProtocol,Post-Operative (return visit) Follow-up Protocol – Are these guidelines available on site? (These may be within the surgical manual).,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+postOperativeWrittenInstructions,Post-Operative Written Instructions – Are these available for clients on site?.,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+cifAvailability,Client Intake Forms – Are blank (unused) VMMC client intake forms available on site? (current version ),"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+clientRegisterAvailability,Client  Register – Is this available on site? (current version),"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+saeReportingForm,SAE Reporting Form- Is this available on site,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+aeRegister,Adverse Event Register– Is this available on site?,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+aeRegisterClientCapturing,"If YES, does the AE register indicate which clients were referred for AEs?","SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+aeDocumentation.1,"If YES, are the outcomes documented? (Reviewer should verify the documentation of the resolution of an AE).","SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+qualityImprovementMinutes,Minutes from Quality Improvement Team Meetings - Are these available on site?,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+referralLinkageForms,Referral and linkage to care forms are available?,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+htsCounselingSOP,"Is there written guidance available at the site on properly obtaining informed consent for HTS (e.g. SOP, counseling guidelines)?","SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+htsCounselingSOPFollowUp,"Does the information cover basic facts, benefits of testing, meaning of results, post test services","SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+pretestInformationRelevance,Is the pretest information relevant to the services required?,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+spaceforPostTestingCounselling,Is there space for confidential post test counselling?,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+condomsAvailability,Are condoms available (both male and female) and distributed to clients?,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+condomInsertionModels,Are condom insertion demonstration models available?,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+condomDemo,Is condom insertion demonstration being done?,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+postCouncellingCoverageonHTSLinkages,"Does post test counselling cover risk assessment, risk reduction, linkages for treatment and HIV Prevention?","SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+htsQualityAssurance,"SOPs, Guidelines, Policies and Job Aids - HIV Testing Quality Assurance","SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+internalControls,"Are internal controls run according to standard -before testing clients, when opening new kit and on receipt of new batch)? - Check in HTS Register","SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+htsStaffRefresherTraining,Do staff conducting HIV testing participate in annual hands-on refresher training with a practical competency component 1?,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+dataCollectionToolsCurrentVersion,Are the current versions of all relevant data collection tools available - check for completeness and completeness,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+referralTrackingStandards,"Are there standard tools to track referrals made to high-impact services & whether the client received those services? (e.g. STI, TB, HIV C & T etc.)","SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+stiRegister,Is there current STI Register?,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+registerCompletion,Are all the fields in the register being completed?,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+condomsAvailabilitySOP,Are condoms available (both male and female) and distributed to clients?,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+adequateStaff,Is there an adequate number of full-time staff for task (some staff may be filling multiple roles but only count each staff member one time).,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+copy-1-of-adequateStaff,Is there an adequate number of full-time staff for task (some staff may be filling multiple roles but only count each staff member one time).,"SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+SOPOverallComment,"Overall Comment ( SOPs , Guidelines , Policies)","SOPs,Guidelines, Policies","SOPs,Guidelines, Policies"
+directObservationofCounselorsonCommunication,"Through direct observation (optimal) or interviews with counselors, determine whether the following information is presented.",Communication,Pre -Op Group Counselling
+separtionofClientByAge,Was there separation of clients into different age groups?,Communication,Pre -Op Group Counselling
+actualObservedSession,Reviewer observed actual (not simulated) session,Communication,Pre -Op Group Counselling
+counsellingSpacePrivacyPreOp,Education and counseling space is conducive and allows for privacy,Communication,Pre -Op Group Counselling
+sessionNotInterruptedPreOp,Counselor is able to conduct session without outside interruption,Communication,Pre -Op Group Counselling
+appropriateGroupAssembling,Group sessions assembled in appropriate age range with age appropriate content,Communication,Pre -Op Group Counselling
+counselorAudible,Counselor can be easily seen and heard by all participants,Communication,Pre -Op Group Counselling
+clearPresentationofInformation,"Counselor presents information in clear, simple terms",Communication,Pre -Op Group Counselling
+counsolorManagementofGroupDynamics,Counselor manages group dynamics effectively,Communication,Pre -Op Group Counselling
+encouragementofQuestionsandClientParticipation,Counselor encourages questions and client participation,Communication,Pre -Op Group Counselling
+councelorChecksforUnderstanding,Counselor checks for understanding throughout session,Communication,Pre -Op Group Counselling
+councelorTreatmentofClients,Counselor treats clients with respect and without judgment,Communication,Pre -Op Group Counselling
+clientsAssuredofConfidentiality,Clients assured of confidentiality,Communication,Pre -Op Group Counselling
+easyObservationOfProps,"All participants can easily observe job-aids, demonstrations, or other props",Communication,Pre -Op Group Counselling
+condomDemoMale,Condom use is properly demonstrated (male),Communication,Pre -Op Group Counselling
+condomDemoFemale,Condom use is properly demonstrated (female),Communication,Pre -Op Group Counselling
+Pre-OPGroupCommunicationComment,Give a comment to this Section,Communication,Pre -Op Group Counselling
+elicitationofClientAge,Age of client,Communication,Individual Counseling
+contentTailoredByAge,Session content is tailored to age of client,Communication,Individual Counseling
+easyObservationofPropsInd,"Client can easily observe job-aids, demonstrations, or other props",Communication,Individual Counseling
+clientAssuredConfidentialityInd,Client assured of confidentiality,Communication,Individual Counseling
+counselorChecksUnderstandingInd,Counselor checks for understanding throughout session,Communication,Individual Counseling
+clientTreatmentInd,Counselor treats client with respect and without judgment,Communication,Individual Counseling
+clientsParticipationEncouragementInd,Counselor encourages questions and client participation,Communication,Individual Counseling
+informationClearInd,"Counselor presents information in clear, simple terms",Communication,Individual Counseling
+counselorAudibleInd,Counselor can be heard by client,Communication,Individual Counseling
+sessionNotInterruptedInd,Counselor is able to conduct session without outside interruption,Communication,Individual Counseling
+counsellingSpacePrivacyInd,Education and counseling space is conducive and allows for privacy,Communication,Individual Counseling
+probingofSRHIssues,Counsellor probes on SRH issues to comeup with client specific messages and inteventions,Communication,Individual Counseling
+probingofSocialCircumstances,Counsellor probes on social circumstances surrounding the client  to establish  mental status and risk of infection,Communication,Individual Counseling
+probingofMentalStatus,Counsellor probes to establish mental health status of client and reasons for seeking MC esp above 40 clients.,Communication,Individual Counseling
+reviewOfActualSession,Reviewer observed actual (not simulated) session,Communication,Individual Counseling
+condomDemoInd,Condom use is properly demonstrated (male),Communication,Individual Counseling
+condomDemoFemaleInd,Condom use is properly demonstrated (Female),Communication,Individual Counseling
+IndividualCounsellingComment,Give a comment to this Section,Communication,Individual Counseling
+communicationtoClients,Communication to Clients - Information-Group,Communication,Information
+explanationofHIVandAIDSriskReduction,Counselor explained HIV and AIDS risk reduction,Communication,Information
+explanationofBasicHIVfacts,Counselor explained basic facts on HIV and AIDS,Communication,Information
+mcPartialProtectiononHIV,Explained that MC only provides partial protection against acquiring HIV infection,Communication,Information
+condomUseExplanation,Explained condom use and other HIV risk reduction measures are still necessary after MC to protect self and partner,Communication,Information
+sexAbstinenceVMMChealing,Put emphasis on need for six week abstinence period during VMMC healing,Communication,Information
+abstinenceRecommendations,Gave recommendations to improve compliance with abstinence,Communication,Information
+explanationofMCMethods,Described MC options for eligible clients (where both standard surgery or device are available),Communication,Information
+htsandSTIServicesonVMMC,Provider explained that HIV testing and STI screening are part of MC services,Communication,Information
+importanceofHTS,Explained that HIV testing is important and remains optional for MC services,Communication,Information
+mcofHIVPosClients,"Explained that HIV+ clients can be circumcised, but MC does not reduce the risk of HIV transmission to partner(s)",Communication,Information
+accurateInformationProvided,Counselor provided accurate information throughout,Communication,Information
+InformationCommunicationComment,Give a comment to this Section,Communication,Information
+explanationofHIVandAIDSriskReductionInd,Counselor explained HIV and AIDS risk reduction,Communication, Information (Individual)
+explanationofBasicHIVfactsInd,Counselor explained basic facts on HIV and AIDS,Communication, Information (Individual)
+mcPartialProtectiononHIVInd,Explained that MC only provides partial protection against acquiring HIV infection,Communication, Information (Individual)
+condomUseExplanationInd,Explained condom use and other HIV risk reduction measures are still necessary after MC to protect self and partner,Communication, Information (Individual)
+sexAbstinenceVMMChealingInd,Put emphasis on need for six week abstinence period during VMMC healing,Communication, Information (Individual)
+abstinenceRecommendationsInd,Gave recommendations to improve compliance with abstinence,Communication, Information (Individual)
+explanationofMCMethodsInd,Described MC options for eligible clients (where both standard surgery or device are available),Communication, Information (Individual)
+htsandSTIServicesonVMMCInd,Provider explained that HIV testing and STI screening are part of MC services,Communication, Information (Individual)
+importanceofHTSInd,Explained that HIV testing is important and remains optional for MC services,Communication, Information (Individual)
+mcofHIVPosClientsInd,"Explained that HIV+ clients can be circumcised, but MC does not reduce the risk of HIV transmission to partner(s)",Communication, Information (Individual)
+accurateInformationProvidedInd,Counselor provided accurate information throughout,Communication, Information (Individual)
+IndividualInformationComment,Give a comment to this Section,Communication, Information (Individual)
+ageofClienthts,Age of client,Communication,HIV Testing and Counseling
+htsScrrenToolUsage,Counselor uses HIV screening tool to assess HIV risk as part of targeted testing,Communication,HIV Testing and Counseling
+clientHIVRisk,Is the client at risk of HIV and requiring HIV testing,Communication,HIV Testing and Counseling
+reviwedActualHIVCounsellingSession,Reviewer observed actual (not simulated) session.,Communication,HIV Testing and Counseling
+clientConsentHIVCounselling,Counselor obtained client consent for testing,Communication,HIV Testing and Counseling
+confedentiallityAssuredHTSCounseling,Counselor assured confidentiality,Communication,HIV Testing and Counseling
+reinforcementofHIVRisks,Reinforced client knowledge of HIV transmission risks and preventive measures,Communication,HIV Testing and Counseling
+hivmisconceptionsAddressed,Corrected misconceptions about HIV/AIDS,Communication,HIV Testing and Counseling
+htsBenefitsandLimitations,Explained HIV test benefits and limitations,Communication,HIV Testing and Counseling
+partnerTesting,Encouraged partner testing,Communication,HIV Testing and Counseling
+htsProcessExplained,Explained HIV testing process,Communication,HIV Testing and Counseling
+informationPresentedClearly,Presented information clearly,Communication,HIV Testing and Counseling
+accurateInformationProvided.1,Provided accurate information to client,Communication,HIV Testing and Counseling
+understandingChecked,Checked for understanding throughout session,Communication,HIV Testing and Counseling
+awareandAddressingClientNonVerbalCues,Responded to client’s non-verbal cues,Communication,HIV Testing and Counseling
+clientsTreatedwithRespect,Engaged client with respect and without judgment,Communication,HIV Testing and Counseling
+clientdeclineHIVTested,Did the client decline HIV testing?,Communication,HIV Testing and Counseling
+clientdeclineHIVTestedRespected,Respected the client’s decision,Communication,HIV Testing and Counseling
+clientdeclineHIVTestedProbedReasons,Explored reason(s) for client’s refusal,Communication,HIV Testing and Counseling
+benefitsofHIVStatusReinforced,Reinforced benefits of knowing one’s HIV status,Communication,HIV Testing and Counseling
+testingatLaterDate,Invited client to get tested at a later date,Communication,HIV Testing and Counseling
+testingSpace,"Conducted test in clean, uncluttered, private space",Communication,HIV Testing and Counseling
+htsAlgorithm,"Could refer to prominently posted, accurate HIV testing algorithm",Communication,HIV Testing and Counseling
+gloves,Wore gloves,Communication,HIV Testing and Counseling
+testingKitCurrent,"Used a current, secure test kit (sealed with desiccant, kept in proper temperature controlled space)",Communication,HIV Testing and Counseling
+disposalofLancetandLotion,"Immediately, properly disposed of lancet and cotton",Communication,HIV Testing and Counseling
+workingTimePiece,Used working timepiece to time the test interval,Communication,HIV Testing and Counseling
+testingTimeInterval,Read the test result only after recommended time interval,Communication,HIV Testing and Counseling
+testResultsProvidedTimeously,Gave client test results without undue delay,Communication,HIV Testing and Counseling
+testResultNegative,Was the test result Negative?,Communication,HIV Testing and Counseling
+resultsWithHeld,Withheld results,Communication,HIV Testing and Counseling
+emphasisedRetestingAfter3Months,Explained implications of negative result and encourage retesting after 3months for those at risk,Communication,HIV Testing and Counseling
+remindedVMMCisPartialProtectionofHIV,Reminded client that VMMC is only partially protective against HIV,Communication,HIV Testing and Counseling
+Emphasized_how_VMMC_must_be_combined_with_condom,Emphasized how VMMC must be combined with condom use and other HIV prevention practices to minimize risk of HIV infection,Communication,HIV Testing and Counseling
+Was_the_test_result_Positive,Was the test result Positive,Communication,HIV Testing and Counseling
+Withheld_results_Positive,"Withheld results
+ ",Communication,HIV Testing and Counseling
+Conducted_confirmatory_test_according_to_national_algorithm,"Conducted confirmatory test according to national algorithm
+",Communication,HIV Testing and Counseling
+Delivered_positive_results_directly_and_clearly,"Delivered positive results directly and clearly
+",Communication,HIV Testing and Counseling
+Offered_client_appropriate_emotional_support,"Offered client appropriate emotional support
+",Communication,HIV Testing and Counseling
+Addressed_client_HIV_understanding_and_misperceptions,"Addressed client’s HIV understanding and misperceptions
+",Communication,HIV Testing and Counseling
+Encouraged_disclosure_to_partners_and_offered_assistance,"Encouraged disclosure to partner(s) and offered assistance
+",Communication,HIV Testing and Counseling
+Encourage_partner_and_family_HIV_testing,"Encourage partner and family HIV testing
+",Communication,HIV Testing and Counseling
+Affirmed_that_client_could_still_undergo_VMMC,"Affirmed that client could still undergo VMMC but it would not reduce risk of HIV transmission to partners
+",Communication,HIV Testing and Counseling
+Explained_that_VMMC_recovery_may_take_longer_when_HIV_positive,"Explained that VMMC recovery may take longer when HIV positive
+",Communication,HIV Testing and Counseling
+Emphasized_importance_of_consistent_proper_condom_use,"Emphasized importance of consistent, proper condom use
+",Communication,HIV Testing and Counseling
+Provided_information_on_positive_living_for_persons_testing_HIV_positive,"Provided information on positive living for persons testing HIV positive
+",Communication,HIV Testing and Counseling
+Initiated_referral_linkage_to_HIV_care_and_treatment,"Initiated referral (linkage) to HIV care and treatment
+",Communication,HIV Testing and Counseling
+Communication_to_Clients,"Communication to Clients - Post-Operative, Pre-discharge Client Observation and Counseling Session
+",Communication,HIV Testing and Counseling
+Recorded_client_temperature_on_arrival,"Recorded client temperature on arrival
+",Communication,HIV Testing and Counseling
+Recorded_client_blood_pressure_on_arrival,"Recorded client blood pressure on arrival
+",Communication,HIV Testing and Counseling
+Recorded_client_pulse_and_respiration_rate_on_arrival,"Recorded client pulse and respiration rate on arrival
+",Communication,HIV Testing and Counseling
+Recorded_client_temperature_15_minutes_after_arrival,"Recorded client temperature 15 minutes after arrival
+",Communication,HIV Testing and Counseling
+Recorded_client_blood_pressure_15_minutes_after_arrival,"Recorded client blood pressure 15 minutes after arrival
+",Communication,HIV Testing and Counseling
+Recorded_client_pulse_and_respiration_rate_15_minutes_after_arrival,"Recorded client pulse and respiration rate 15 minutes after arrival
+",Communication,HIV Testing and Counseling
+Reaffirmed_need_for_six_week_abstinence_period_during_VMMC_healing,"Reaffirmed need for six week abstinence period during VMMC healing
+",Communication,HIV Testing and Counseling
+Emphasized_ways_to_improve_compliance_with_abstinence,"Emphasized ways to improve compliance with abstinence
+",Communication,HIV Testing and Counseling
+Gave_oral_and_written_instructions_for_contacting_VMMC_staff,"Gave oral and written instructions for contacting VMMC staff
+",Communication,HIV Testing and Counseling
+Provided_wound_care_flier_and_clear_accurate_instructions_on_wound_care,"Provided wound care flier and clear, accurate instructions on wound care
+",Communication,HIV Testing and Counseling
+Provided_instructions_for_pain_management,"Provided instructions for pain management
+",Communication,HIV Testing and Counseling
+Described_warning_signs_of_adverse_events_and_recommendations_for_managing,"
+Described warning signs of adverse events and recommendations for managing",Communication,HIV Testing and Counseling
+Warned_against_applying_any_home_or_traditional_remedies,"Warned against applying any home or traditional remedies, such as  herbs, animal dung or ash to the MC wound (emphasis on associated risks including tetanus)",Communication,HIV Testing and Counseling
+Communicated_in_clear_simple_terms,"Communicated in clear, simple terms",Communication,HIV Testing and Counseling
+Gave_accurate_information_note_errors_of_fact,Gave accurate information (note errors of fact),Communication,HIV Testing and Counseling
+Checked_for_client_understanding_throughout_session,Checked for client understanding throughout session,Communication,HIV Testing and Counseling
+Engaged_client_with_respect_and_without_judgment,Engaged client with respect and without judgment,Communication,HIV Testing and Counseling
+IndividualInformationComment.1,Give a comment to this Section,Communication,HIV Testing and Counseling
+Is_this_a_follow_up_clinic_visit_post_VMMC,Is this a follow up clinic visit post VMMC?,Communication,Follow-up ->  Clinic Visit After VMMC
+ageofClientfollowup,Age of client,Communication,Follow-up ->  Clinic Visit After VMMC
+Reviewer_observed_follow-up_clinic_visit_on,Reviewer observed follow-up clinic visit on  ___  post-operative day/week (select day),Communication,Follow-up ->  Clinic Visit After VMMC
+Provider_ensured_client_privacy_during_examination,Provider ensured client privacy during examination,Communication,Follow-up ->  Clinic Visit After VMMC
+Care_provider_completed_a_physical_exam,Care provider completed a physical exam,Communication,Follow-up ->  Clinic Visit After VMMC
+information_on_the_status_of_clients_healing,The care giver/counselor gave information on the status of client’s healing,Communication,Follow-up ->  Clinic Visit After VMMC
+Emphasized_the_need_for_six_week_abstinence_period_during_VMMC_healing,Emphasized the need for six week abstinence period during VMMC healing,Communication,Follow-up ->  Clinic Visit After VMMC
+Emphasized_ways_to_improve_compliance_with_abstinenceFu,Emphasized ways to improve compliance with abstinence,Communication,Follow-up ->  Clinic Visit After VMMC
+Explained_effective_wound_care_and_pain_management,Explained effective wound care and pain management,Communication,Follow-up ->  Clinic Visit After VMMC
+Explained_importance_of_not_applying_any_home_or_traditional_remedies,"Explained importance of not applying any home or traditional remedies, such as herbs, animal dung or ash to the MC wound (emphasis on associated risks)",Communication,Follow-up ->  Clinic Visit After VMMC
+Discussed_warning_signs_of_adverse_events,Discussed warning signs of adverse events and recommendations for managing them,Communication,Follow-up ->  Clinic Visit After VMMC
+Gave_procedures_for_contacting_VMMC_staff,Gave procedures for contacting VMMC staff,Communication,Follow-up ->  Clinic Visit After VMMC
+Gave_accurate_information,Gave accurate information,Communication,Follow-up ->  Clinic Visit After VMMC
+Communicated_in_clear_simple_termsFu,"Communicated in clear, simple terms",Communication,Follow-up ->  Clinic Visit After VMMC
+Checked_for_client_understanding_throughout_sessionFu,Checked for client understanding throughout session,Communication,Follow-up ->  Clinic Visit After VMMC
+Engaged_client_with_respect_and_without_judgmentFu,Engaged client with respect and without judgment,Communication,Follow-up ->  Clinic Visit After VMMC
+Affirmed_client_VMMC_decision,"Affirmed client’s VMMC decision and encouraged him to bring in friends, peers, male relatives",Communication,Follow-up ->  Clinic Visit After VMMC
+Was_the_visit_documented_in_CIR_and_Register,Was the visit documented in CIR and Register?,Communication,Follow-up ->  Clinic Visit After VMMC
+Communication_to_Clients_-_HIV_and_MCEducation,Communication to Clients - HIV and MC Education and Counseling Materials,Communication,Follow-up ->  Clinic Visit After VMMC
+Examine_all_in-service_communication_materials,"Examine all in-service communication materials, including flip-charts, pamphlets, brochures, client guidance and instructional hand-outs",Communication,Follow-up ->  Clinic Visit After VMMC
+On-site_signage_is_sufficient_to_direct_clients,On-site signage is sufficient to direct clients to VMMC service locations,Communication,Follow-up ->  Clinic Visit After VMMC
+testingSpace.1,"Conducted test in clean, uncluttered, private space",Communication,Follow-up ->  Clinic Visit After VMMC
+htsAlgorithm.1,"Could refer to prominently posted, accurate HIV testing algorithm",Communication,Follow-up ->  Clinic Visit After VMMC
+gloves.1,Wore gloves,Communication,Follow-up ->  Clinic Visit After VMMC
+testingKitCurrent.1,"Used a current, secure test kit (sealed with desiccant, kept in proper temperature controlled space)",Communication,Follow-up ->  Clinic Visit After VMMC
+disposalofLancetandLotion.1,"Immediately, properly disposed of lancet and cotton",Communication,Follow-up ->  Clinic Visit After VMMC
+workingTimePiece.1,Used working timepiece to time the test interval,Communication,Follow-up ->  Clinic Visit After VMMC
+testingTimeInterval.1,Read the test result only after recommended time interval,Communication,Follow-up ->  Clinic Visit After VMMC
+testResultsProvidedTimeously.1,Gave client test results without undue delay,Communication,Follow-up ->  Clinic Visit After VMMC
+testResultNegative.1,Was the test result Negative?,Communication,Follow-up ->  Clinic Visit After VMMC
+resultsWithHeld.1,Withheld results,Communication,Follow-up ->  Clinic Visit After VMMC
+emphasisedRetestingAfter3Months.1,Explained implications of negative result and encourage retesting after 3months for those at risk,Communication,Follow-up ->  Clinic Visit After VMMC
+remindedVMMCisPartialProtectionofHIV.1,Reminded client that VMMC is only partially protective against HIV,Communication,Follow-up ->  Clinic Visit After VMMC
+Emphasized_how_VMMC_must_be_combined_with_condom.1,Emphasized how VMMC must be combined with condom use and other HIV prevention practices to minimize risk of HIV infection,Communication,Follow-up ->  Clinic Visit After VMMC
+Was_the_test_result_Positive.1,Was the test result Positive,Communication,Follow-up ->  Clinic Visit After VMMC
+Withheld_results_Positive.1,"Withheld results
+ ",Communication,Follow-up ->  Clinic Visit After VMMC
+Conducted_confirmatory_test_according_to_national_algorithm.1,"Conducted confirmatory test according to national algorithm
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Delivered_positive_results_directly_and_clearly.1,"Delivered positive results directly and clearly
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Offered_client_appropriate_emotional_support.1,"Offered client appropriate emotional support
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Addressed_client_HIV_understanding_and_misperceptions.1,"Addressed client’s HIV understanding and misperceptions
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Encouraged_disclosure_to_partners_and_offered_assistance.1,"Encouraged disclosure to partner(s) and offered assistance
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Encourage_partner_and_family_HIV_testing.1,"Encourage partner and family HIV testing
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Affirmed_that_client_could_still_undergo_VMMC.1,"Affirmed that client could still undergo VMMC but it would not reduce risk of HIV transmission to partners
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Explained_that_VMMC_recovery_may_take_longer_when_HIV_positive.1,"Explained that VMMC recovery may take longer when HIV positive
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Emphasized_importance_of_consistent_proper_condom_use.1,"Emphasized importance of consistent, proper condom use
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Provided_information_on_positive_living_for_persons_testing_HIV_positive.1,"Provided information on positive living for persons testing HIV positive
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Initiated_referral_linkage_to_HIV_care_and_treatment.1,"Initiated referral (linkage) to HIV care and treatment
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Communication_to_Clients.1,"Communication to Clients - Post-Operative, Pre-discharge Client Observation and Counseling Session
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Recorded_client_temperature_on_arrival.1,"Recorded client temperature on arrival
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Recorded_client_blood_pressure_on_arrival.1,"Recorded client blood pressure on arrival
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Recorded_client_pulse_and_respiration_rate_on_arrival.1,"Recorded client pulse and respiration rate on arrival
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Recorded_client_temperature_15_minutes_after_arrival.1,"Recorded client temperature 15 minutes after arrival
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Recorded_client_blood_pressure_15_minutes_after_arrival.1,"Recorded client blood pressure 15 minutes after arrival
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Recorded_client_pulse_and_respiration_rate_15_minutes_after_arrival.1,"Recorded client pulse and respiration rate 15 minutes after arrival
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Reaffirmed_need_for_six_week_abstinence_period_during_VMMC_healing.1,"Reaffirmed need for six week abstinence period during VMMC healing
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Emphasized_ways_to_improve_compliance_with_abstinence.1,"Emphasized ways to improve compliance with abstinence
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Gave_oral_and_written_instructions_for_contacting_VMMC_staff.1,"Gave oral and written instructions for contacting VMMC staff
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Provided_wound_care_flier_and_clear_accurate_instructions_on_wound_care.1,"Provided wound care flier and clear, accurate instructions on wound care
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Provided_instructions_for_pain_management.1,"Provided instructions for pain management
+",Communication,Follow-up ->  Clinic Visit After VMMC
+Described_warning_signs_of_adverse_events_and_recommendations_for_managing.1,"
+Described warning signs of adverse events and recommendations for managing",Communication,Follow-up ->  Clinic Visit After VMMC
+Warned_against_applying_any_home_or_traditional_remedies.1,"Warned against applying any home or traditional remedies, such as  herbs, animal dung or ash to the MC wound (emphasis on associated risks including tetanus)",Communication,Follow-up ->  Clinic Visit After VMMC
+Communicated_in_clear_simple_terms.1,"Communicated in clear, simple terms",Communication,Follow-up ->  Clinic Visit After VMMC
+Gave_accurate_information_note_errors_of_fact.1,Gave accurate information (note errors of fact),Communication,Follow-up ->  Clinic Visit After VMMC
+Checked_for_client_understanding_throughout_session.1,Checked for client understanding throughout session,Communication,Follow-up ->  Clinic Visit After VMMC
+Engaged_client_with_respect_and_without_judgment.1,Engaged client with respect and without judgment,Communication,Follow-up ->  Clinic Visit After VMMC
+Affirmed_clients_VMMC_decision,"Affirmed client’s VMMC decision and encouraged him to bring in friends, peers, male relatives",Communication,Follow-up ->  Clinic Visit After VMMC
+Was_the_visit_documented_in_CIR_and_RegisterFu,Was the visit documented in CIR and Register?,Communication,Follow-up ->  Clinic Visit After VMMC
+Communication_to_Clients_-_HIV_and_MCEducationFu,Communication to Clients - HIV and MC Education and Counseling Materials,Communication,Follow-up ->  Clinic Visit After VMMC
+Examine_all_in-service_communication_materialsFu,"Examine all in-service communication materials, including flip-charts, pamphlets, brochures, client guidance and instructional hand-outs",Communication,Follow-up ->  Clinic Visit After VMMC
+On-site_signage_is_sufficient_to_direct_clients_to_VMMC_service_locations,On-site signage is sufficient to direct clients to VMMC service locations,Communication,Follow-up ->  Clinic Visit After VMMC
+On-site_materials_adequately_support_in-service_communication,On-site materials adequately support in-service communication,Communication,Follow-up ->  Clinic Visit After VMMC
+Materials_are_legible_and_in_good-condition,"Materials are legible and in good-condition (i.e., not faded, worn, or distorted)",Communication,Follow-up ->  Clinic Visit After VMMC
+Materials_tailored_to_specific_audiences_are_available,"Materials tailored to specific audiences are available (e.g. adolescent & adult males, wives/partners, parents, guardians, other  home caregivers)",Communication,Follow-up ->  Clinic Visit After VMMC
+Clinic_staff_can_explain_or_show_how_they_use_these_materials_in_client_education_and_counseling,Clinic staff can explain or show how they use these materials in client education and counseling,Communication,Follow-up ->  Clinic Visit After VMMC
+Communication_to_Clients_-_Information_on_Materials,Communication to Clients - Information on Materials,Communication,Follow-up ->  Clinic Visit After VMMC
+basic_hiv_and_aids_risk_reduction_information_including_other_stis,Basic HIV and AIDS risk reduction information (including other STIs),Communication,Follow-up ->  Clinic Visit After VMMC
+Modes_of_HIV_transmission_and_relative_HIV-risk_assessment,Modes of HIV transmission and relative HIV-risk assessment,Communication,Follow-up ->  Clinic Visit After VMMC
+Guidance_for_reducing_individual_HIV_risk,Guidance for reducing individual HIV risk,Communication,Follow-up ->  Clinic Visit After VMMC
+Information_on_need_for_abstinence_during_VMMC_healing,Information on need for abstinence during VMMC healing,Communication,Follow-up ->  Clinic Visit After VMMC
+Wound_care_instructions,Wound care instructions,Communication,Follow-up ->  Clinic Visit After VMMC
+Warning_against_applying_any_home_or_tradional_remedies,"Warning against applying any home or tradional remedies, such as  herbs, animal dung or ash to the VMMC wound (emphasis on associated risks including tetanus)",Communication,Follow-up ->  Clinic Visit After VMMC
+Specific_contact_information_for_reaching_VMMC_staff,Specific contact information for reaching VMMC staff,Communication,Follow-up ->  Clinic Visit After VMMC
+Emergency_contact_number_operational,"Emergency contact number operational (dial the number, if possible, to confirm that it is in service)",Communication,Follow-up ->  Clinic Visit After VMMC
+give_overall_comment_communication,Give overall Comment (Communication),Communication,Follow-up ->  Clinic Visit After VMMC
