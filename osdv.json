@@ -372,12 +372,6 @@
         "SubCategory":"Medicines"
     },
     {
-        "QuestionID":"medicinesComment",
-        "Question":"Give a comment to this Section",
-        "Category":"Facilities Supplies, Emergency ",
-        "SubCategory":"Medicines"
-    },
-    {
         "QuestionID":"documentationofMedicationsDispensed",
         "Question":"Is there documentation of medications dispensed?",
         "Category":"Facilities Supplies, Emergency ",
@@ -392,6 +386,12 @@
     {
         "QuestionID":"writtenProtocolMedicalDispensing",
         "Question":"Is a written protocol for medication dispensing and documentation available?",
+        "Category":"Facilities Supplies, Emergency ",
+        "SubCategory":"Medicines"
+    },
+    {
+        "QuestionID":"medicinesComment",
+        "Question":"Give a comment to this Section",
         "Category":"Facilities Supplies, Emergency ",
         "SubCategory":"Medicines"
     },
