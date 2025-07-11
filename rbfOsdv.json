@@ -1,0 +1,147 @@
+[
+    {
+        "Unnamed: 0":0,
+        "QuestionID":"certifiedCircumciser",
+        "Question":"Is there a certified Circumciser"
+    },
+    {
+        "Unnamed: 0":1,
+        "QuestionID":"is_there_a_trained_vmmc_assistant",
+        "Question":"Is there a trained VMMC Assistant"
+    },
+    {
+        "Unnamed: 0":2,
+        "QuestionID":"darkClerk",
+        "Question":"Is there a Health Worker trained as a Data Clerk\/Receptionist"
+    },
+    {
+        "Unnamed: 0":3,
+        "QuestionID":"staffingCapabilities",
+        "Question":"For the volume of clients done during the period under assessment , Is staffing sufficient to perform the following."
+    },
+    {
+        "Unnamed: 0":4,
+        "QuestionID":"communityHealthNurses",
+        "Question":"Are there any Community Health Nurses trained in VMMC"
+    },
+    {
+        "Unnamed: 0":5,
+        "QuestionID":"vmmcMobilisers",
+        "Question":"How many mobilisers were active in the VMMC programmed during the period of the assessment"
+    },
+    {
+        "Unnamed: 0":6,
+        "QuestionID":"staffingComment",
+        "Question":"Comment on Findings (Staffing)"
+    },
+    {
+        "Unnamed: 0":7,
+        "QuestionID":"vmmcPosters",
+        "Question":"Is there any visible signage or posters indicating that VMMC services are offered at the facility?"
+    },
+    {
+        "Unnamed: 0":8,
+        "QuestionID":"vmmcGuidelines",
+        "Question":"Are the following guidelines available onsite"
+    },
+    {
+        "Unnamed: 0":9,
+        "QuestionID":"darkClerk.1",
+        "Question":"Are space and client flow arranged to allow all the following steps to take place without affecting client privacy"
+    },
+    {
+        "Unnamed: 0":10,
+        "QuestionID":"operatingTheatrePrivacy",
+        "Question":"#### Operating Theatre(s)\nIs there visual privacy( other clients will not see, no human traffic through the room ; screens or partitions are acceptable and adequate lighting in the VMMC procedure room?"
+    },
+    {
+        "Unnamed: 0":11,
+        "QuestionID":"runningWater",
+        "Question":"#### Surgical Scrub\nIs there running water ( this includes clean water that runs from a tank, bucket or basin) and hand washing supplies ( hand soap or gel) in the VMMC procedure room?"
+    },
+    {
+        "Unnamed: 0":12,
+        "QuestionID":"sterileKitsStorage",
+        "Question":"Are all sterile kits appropriately stored ( elevated from the ground , not touching walls and ceiling) in a visible clean area"
+    },
+    {
+        "Unnamed: 0":13,
+        "QuestionID":"bins",
+        "Question":"#### Waste Management\nDoes the facility have color-coded bins\/bin-liners , red,yellow and black for different waste types?"
+    },
+    {
+        "Unnamed: 0":14,
+        "QuestionID":"incinerator",
+        "Question":"#### Waste Management\nDoes the facility have a functional incinerator or Otto-way pit for clinical waste disposal"
+    },
+    {
+        "Unnamed: 0":15,
+        "QuestionID":"rbfFacilityPlan",
+        "Question":"Is there a facility plan on usage of VMMC RBF monies?"
+    },
+    {
+        "Unnamed: 0":16,
+        "QuestionID":"dcWorkPlan",
+        "Question":"Is there a VMMC Demand Creation workplan at the site under assessment"
+    },
+    {
+        "Unnamed: 0":17,
+        "QuestionID":"are_guidelines_or_protocols_for_medical_emergencies_displayed_in_the_proced",
+        "Question":"Are guidelines or protocols for medical emergencies displayed in the procedure \/ recovery room and clearly visible?"
+    },
+    {
+        "Unnamed: 0":18,
+        "QuestionID":"emergencyCart",
+        "Question":"Does the site have an emergency cart, tray or jump bag with unexpired medicines?"
+    },
+    {
+        "Unnamed: 0":19,
+        "QuestionID":"emergencyTraining",
+        "Question":"In the past 12 months, has any clinical staff been trained in emergency management (in-house training may suffice)?"
+    },
+    {
+        "Unnamed: 0":20,
+        "QuestionID":"emergencyNumber",
+        "Question":"Is there a contact number to be used by client in case of emergencies"
+    },
+    {
+        "Unnamed: 0":21,
+        "QuestionID":"facilityComment",
+        "Question":"Comment on Findings ( Facility, Supplies , IPC and Emergency Management)"
+    },
+    {
+        "Unnamed: 0":22,
+        "QuestionID":"recordsSecure",
+        "Question":"Are records kept in a safe, secure place ?\n "
+    },
+    {
+        "Unnamed: 0":23,
+        "QuestionID":"recordsFilling",
+        "Question":"Are records properly filed ?\n"
+    },
+    {
+        "Unnamed: 0":24,
+        "QuestionID":"copy-1-of-recordsFilling",
+        "Question":"Are all selected CIF Forms (sample of 10) filled in completely. Check for the following \n"
+    },
+    {
+        "Unnamed: 0":25,
+        "QuestionID":"consentForms",
+        "Question":"Do all CIFs have completely signed consent forms attached? (If any consent form is incomplete or invalid score No)"
+    },
+    {
+        "Unnamed: 0":26,
+        "QuestionID":"question1",
+        "Question":"Is there proper Adverse Event documentation in the following tools: AE Register , MRF and VMMC register "
+    },
+    {
+        "Unnamed: 0":27,
+        "QuestionID":"vmmcMinutes",
+        "Question":"Are there monthly minutes of Site Staff reviewing VMMC data submitted to next reporting level"
+    },
+    {
+        "Unnamed: 0":28,
+        "QuestionID":"recordReviewComment",
+        "Question":"Comments and Recommendation (Client Record Review)"
+    }
+]
