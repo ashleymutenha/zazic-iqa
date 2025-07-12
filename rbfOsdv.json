@@ -1,147 +1,188 @@
 [
     {
-        "Unnamed: 0":0,
         "QuestionID":"certifiedCircumciser",
-        "Question":"Is there a certified Circumciser"
+        "Question":"Is there a certified Circumciser",
+        "Category":"Human Resources",
+        "SubCategory":"Adequacy of Staffing"
     },
     {
-        "Unnamed: 0":1,
         "QuestionID":"is_there_a_trained_vmmc_assistant",
-        "Question":"Is there a trained VMMC Assistant"
+        "Question":"Is there a trained VMMC Assistant",
+        "Category":"Human Resources",
+        "SubCategory":"Adequacy of Staffing"
     },
     {
-        "Unnamed: 0":2,
         "QuestionID":"darkClerk",
-        "Question":"Is there a Health Worker trained as a Data Clerk\/Receptionist"
+        "Question":"Is there a Health Worker trained as a Data Clerk\/Receptionist",
+        "Category":"Human Resources",
+        "SubCategory":"Adequacy of Staffing"
     },
     {
-        "Unnamed: 0":3,
         "QuestionID":"staffingCapabilities",
-        "Question":"For the volume of clients done during the period under assessment , Is staffing sufficient to perform the following."
+        "Question":"For the volume of clients done during the period under assessment , Is staffing sufficient to perform the following.",
+        "Category":"Human Resources",
+        "SubCategory":"Adequacy of Staffing"
     },
     {
-        "Unnamed: 0":4,
         "QuestionID":"communityHealthNurses",
-        "Question":"Are there any Community Health Nurses trained in VMMC"
+        "Question":"Are there any Community Health Nurses trained in VMMC",
+        "Category":"Human Resources",
+        "SubCategory":"Adequacy of Staffing"
     },
     {
-        "Unnamed: 0":5,
         "QuestionID":"vmmcMobilisers",
-        "Question":"How many mobilisers were active in the VMMC programmed during the period of the assessment"
+        "Question":"How many mobilisers were active in the VMMC programmed during the period of the assessment",
+        "Category":"Human Resources",
+        "SubCategory":"Adequacy of Staffing"
     },
     {
-        "Unnamed: 0":6,
         "QuestionID":"staffingComment",
-        "Question":"Comment on Findings (Staffing)"
+        "Question":"Comment on Findings (Staffing)",
+        "Category":"Human Resources",
+        "SubCategory":"Adequacy of Staffing"
     },
     {
-        "Unnamed: 0":7,
         "QuestionID":"vmmcPosters",
-        "Question":"Is there any visible signage or posters indicating that VMMC services are offered at the facility?"
+        "Question":"Is there any visible signage or posters indicating that VMMC services are offered at the facility?",
+        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "SubCategory":"Facility and Supplies"
     },
     {
-        "Unnamed: 0":8,
         "QuestionID":"vmmcGuidelines",
-        "Question":"Are the following guidelines available onsite"
+        "Question":"Are the following guidelines available onsite",
+        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "SubCategory":"Facility and Supplies"
     },
     {
-        "Unnamed: 0":9,
         "QuestionID":"darkClerk.1",
-        "Question":"Are space and client flow arranged to allow all the following steps to take place without affecting client privacy"
+        "Question":"Are space and client flow arranged to allow all the following steps to take place without affecting client privacy",
+        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "SubCategory":"Facility and Supplies"
     },
     {
-        "Unnamed: 0":10,
         "QuestionID":"operatingTheatrePrivacy",
-        "Question":"#### Operating Theatre(s)\nIs there visual privacy( other clients will not see, no human traffic through the room ; screens or partitions are acceptable and adequate lighting in the VMMC procedure room?"
+        "Question":"Is there visual privacy( other clients will not see, no human traffic through the room ; screens or partitions are acceptable and adequate lighting in the VMMC procedure room?",
+        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "SubCategory":"Facility and Supplies"
     },
     {
-        "Unnamed: 0":11,
         "QuestionID":"runningWater",
-        "Question":"#### Surgical Scrub\nIs there running water ( this includes clean water that runs from a tank, bucket or basin) and hand washing supplies ( hand soap or gel) in the VMMC procedure room?"
+        "Question":"Is there running water ( this includes clean water that runs from a tank, bucket or basin) and hand washing supplies ( hand soap or gel) in the VMMC procedure room?",
+        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "SubCategory":"Facility and Supplies"
     },
     {
-        "Unnamed: 0":12,
         "QuestionID":"sterileKitsStorage",
-        "Question":"Are all sterile kits appropriately stored ( elevated from the ground , not touching walls and ceiling) in a visible clean area"
+        "Question":"Are all sterile kits appropriately stored ( elevated from the ground , not touching walls and ceiling) in a visible clean area",
+        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "SubCategory":"Facility and Supplies"
     },
     {
-        "Unnamed: 0":13,
         "QuestionID":"bins",
-        "Question":"#### Waste Management\nDoes the facility have color-coded bins\/bin-liners , red,yellow and black for different waste types?"
+        "Question":"Does the facility have color-coded bins\/bin-liners , red,yellow and black for different waste types?",
+        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "SubCategory":"Facility and Supplies"
     },
     {
-        "Unnamed: 0":14,
         "QuestionID":"incinerator",
-        "Question":"#### Waste Management\nDoes the facility have a functional incinerator or Otto-way pit for clinical waste disposal"
+        "Question":"Does the facility have a functional incinerator or Otto-way pit for clinical waste disposal",
+        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "SubCategory":"Facility and Supplies"
     },
     {
-        "Unnamed: 0":15,
         "QuestionID":"rbfFacilityPlan",
-        "Question":"Is there a facility plan on usage of VMMC RBF monies?"
+        "Question":"Is there a facility plan on usage of VMMC RBF monies?",
+        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "SubCategory":"Facility and Supplies"
     },
     {
-        "Unnamed: 0":16,
         "QuestionID":"dcWorkPlan",
-        "Question":"Is there a VMMC Demand Creation workplan at the site under assessment"
+        "Question":"Is there a VMMC Demand Creation workplan at the site under assessment",
+        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "SubCategory":"Facility and Supplies"
     },
     {
-        "Unnamed: 0":17,
         "QuestionID":"are_guidelines_or_protocols_for_medical_emergencies_displayed_in_the_proced",
-        "Question":"Are guidelines or protocols for medical emergencies displayed in the procedure \/ recovery room and clearly visible?"
+        "Question":"Are guidelines or protocols for medical emergencies displayed in the procedure \/ recovery room and clearly visible?",
+        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "SubCategory":"Infection Prevention Control  and Emergency Management"
     },
     {
-        "Unnamed: 0":18,
         "QuestionID":"emergencyCart",
-        "Question":"Does the site have an emergency cart, tray or jump bag with unexpired medicines?"
+        "Question":"Does the site have an emergency cart, tray or jump bag with unexpired medicines?",
+        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "SubCategory":"Infection Prevention Control  and Emergency Management"
     },
     {
-        "Unnamed: 0":19,
         "QuestionID":"emergencyTraining",
-        "Question":"In the past 12 months, has any clinical staff been trained in emergency management (in-house training may suffice)?"
+        "Question":"In the past 12 months, has any clinical staff been trained in emergency management (in-house training may suffice)?",
+        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "SubCategory":"Infection Prevention Control  and Emergency Management"
     },
     {
-        "Unnamed: 0":20,
         "QuestionID":"emergencyNumber",
-        "Question":"Is there a contact number to be used by client in case of emergencies"
+        "Question":"Is there a contact number to be used by client in case of emergencies",
+        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "SubCategory":"Infection Prevention Control  and Emergency Management"
     },
     {
-        "Unnamed: 0":21,
         "QuestionID":"facilityComment",
-        "Question":"Comment on Findings ( Facility, Supplies , IPC and Emergency Management)"
+        "Question":"Comment on Findings ( Facility, Supplies , IPC and Emergency Management)",
+        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "SubCategory":"Infection Prevention Control  and Emergency Management"
     },
     {
-        "Unnamed: 0":22,
         "QuestionID":"recordsSecure",
-        "Question":"Are records kept in a safe, secure place ?\n "
+        "Question":"Are records kept in a safe, secure place ?",
+        "Category":"Client Record Review",
+        "SubCategory":"Client Record Review"
     },
     {
-        "Unnamed: 0":23,
         "QuestionID":"recordsFilling",
-        "Question":"Are records properly filed ?\n"
+        "Question":"Are records properly filed ?",
+        "Category":"Client Record Review",
+        "SubCategory":"Client Record Review"
     },
     {
-        "Unnamed: 0":24,
         "QuestionID":"copy-1-of-recordsFilling",
-        "Question":"Are all selected CIF Forms (sample of 10) filled in completely. Check for the following \n"
+        "Question":"Are all selected CIF Forms (sample of 10) filled in completely. Check for the following",
+        "Category":"Client Record Review",
+        "SubCategory":"Client Record Review"
     },
     {
-        "Unnamed: 0":25,
         "QuestionID":"consentForms",
-        "Question":"Do all CIFs have completely signed consent forms attached? (If any consent form is incomplete or invalid score No)"
+        "Question":"Do all CIFs have completely signed consent forms attached? (If any consent form is incomplete or invalid score No)",
+        "Category":"Client Record Review",
+        "SubCategory":"Client Record Review"
     },
     {
-        "Unnamed: 0":26,
         "QuestionID":"question1",
-        "Question":"Is there proper Adverse Event documentation in the following tools: AE Register , MRF and VMMC register "
+        "Question":"Is there proper Adverse Event documentation in the following tools: AE Register , MRF and VMMC register",
+        "Category":"Client Record Review",
+        "SubCategory":"Client Record Review"
     },
     {
-        "Unnamed: 0":27,
         "QuestionID":"vmmcMinutes",
-        "Question":"Are there monthly minutes of Site Staff reviewing VMMC data submitted to next reporting level"
+        "Question":"Are there monthly minutes of Site Staff reviewing VMMC data submitted to next reporting level",
+        "Category":"Client Record Review",
+        "SubCategory":"Client Record Review"
     },
     {
-        "Unnamed: 0":28,
         "QuestionID":"recordReviewComment",
-        "Question":"Comments and Recommendation (Client Record Review)"
+        "Question":"Comments and Recommendation (Client Record Review)",
+        "Category":"Client Record Review",
+        "SubCategory":"Client Record Review"
+    },
+    {
+        "QuestionID":"month_year_repeat_group",
+        "Question":"Triangulating Data across VMMC source documents",
+        "Category":"Client Record Review",
+        "SubCategory":"Data Triangulation"
+    },
+    {
+        "QuestionID":"recommendation_aspects",
+        "Question":"Overall Recommendations",
+        "Category":"Overall Recommendations",
+        "SubCategory":"Recommendations"
     }
 ]
