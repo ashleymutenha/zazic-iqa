@@ -44,91 +44,91 @@
     {
         "QuestionID":"vmmcPosters",
         "Question":"Is there any visible signage or posters indicating that VMMC services are offered at the facility?",
-        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "Category":"Facilities",
         "SubCategory":"Facility and Supplies"
     },
     {
         "QuestionID":"vmmcGuidelines",
         "Question":"Are the following guidelines available onsite",
-        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "Category":"Facilities",
         "SubCategory":"Facility and Supplies"
     },
     {
         "QuestionID":"darkClerk.1",
         "Question":"Are space and client flow arranged to allow all the following steps to take place without affecting client privacy",
-        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "Category":"Facilities",
         "SubCategory":"Facility and Supplies"
     },
     {
         "QuestionID":"operatingTheatrePrivacy",
         "Question":"Is there visual privacy( other clients will not see, no human traffic through the room ; screens or partitions are acceptable and adequate lighting in the VMMC procedure room?",
-        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "Category":"Facilities",
         "SubCategory":"Facility and Supplies"
     },
     {
         "QuestionID":"runningWater",
         "Question":"Is there running water ( this includes clean water that runs from a tank, bucket or basin) and hand washing supplies ( hand soap or gel) in the VMMC procedure room?",
-        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "Category":"Facilities",
         "SubCategory":"Facility and Supplies"
     },
     {
         "QuestionID":"sterileKitsStorage",
         "Question":"Are all sterile kits appropriately stored ( elevated from the ground , not touching walls and ceiling) in a visible clean area",
-        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "Category":"Facilities",
         "SubCategory":"Facility and Supplies"
     },
     {
         "QuestionID":"bins",
         "Question":"Does the facility have color-coded bins\/bin-liners , red,yellow and black for different waste types?",
-        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "Category":"Facilities",
         "SubCategory":"Facility and Supplies"
     },
     {
         "QuestionID":"incinerator",
         "Question":"Does the facility have a functional incinerator or Otto-way pit for clinical waste disposal",
-        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "Category":"Facilities",
         "SubCategory":"Facility and Supplies"
     },
     {
         "QuestionID":"rbfFacilityPlan",
         "Question":"Is there a facility plan on usage of VMMC RBF monies?",
-        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "Category":"Facilities",
         "SubCategory":"Facility and Supplies"
     },
     {
         "QuestionID":"dcWorkPlan",
         "Question":"Is there a VMMC Demand Creation workplan at the site under assessment",
-        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "Category":"Facilities",
         "SubCategory":"Facility and Supplies"
     },
     {
         "QuestionID":"are_guidelines_or_protocols_for_medical_emergencies_displayed_in_the_proced",
         "Question":"Are guidelines or protocols for medical emergencies displayed in the procedure \/ recovery room and clearly visible?",
-        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "Category":"Facilities",
         "SubCategory":"Infection Prevention Control  and Emergency Management"
     },
     {
         "QuestionID":"emergencyCart",
         "Question":"Does the site have an emergency cart, tray or jump bag with unexpired medicines?",
-        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "Category":"Facilities",
         "SubCategory":"Infection Prevention Control  and Emergency Management"
     },
     {
         "QuestionID":"emergencyTraining",
         "Question":"In the past 12 months, has any clinical staff been trained in emergency management (in-house training may suffice)?",
-        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "Category":"Facilities",
         "SubCategory":"Infection Prevention Control  and Emergency Management"
     },
     {
         "QuestionID":"emergencyNumber",
         "Question":"Is there a contact number to be used by client in case of emergencies",
-        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "Category":"Facilities",
         "SubCategory":"Infection Prevention Control  and Emergency Management"
     },
     {
         "QuestionID":"facilityComment",
-        "Question":"Comment on Findings ( Facility, Supplies , IPC and Emergency Management)",
-        "Category":"Facility, Supplies, Infection Prevention Control  and Emergency Management",
+        "Question":"Comments and Recommendations",
+        "Category":"Facilities",
         "SubCategory":"Infection Prevention Control  and Emergency Management"
     },
     {
@@ -178,11 +178,5 @@
         "Question":"Triangulating Data across VMMC source documents",
         "Category":"Client Record Review",
         "SubCategory":"Data Triangulation"
-    },
-    {
-        "QuestionID":"recommendation_aspects",
-        "Question":"Overall Recommendations",
-        "Category":"Overall Recommendations",
-        "SubCategory":"Recommendations"
     }
 ]
