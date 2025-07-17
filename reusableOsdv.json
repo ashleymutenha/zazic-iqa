@@ -1,0 +1,415 @@
+[
+    {
+        "Unnamed: 0":0,
+        "QuestionID":"pocforInstrumentReprocessiong",
+        "Question":"Does the site have an individual identified as the POC for\ninstrument reprocessing?",
+        "Category":"Leadership",
+        "SubCategory":"POC Competency"
+    },
+    {
+        "Unnamed: 0":1,
+        "QuestionID":"pocCompetency",
+        "Question":"Does the POC have record of training\/competency in instrument reprocessing (reviewer should visually verify)?",
+        "Category":"Leadership",
+        "SubCategory":"POC Competency"
+    },
+    {
+        "Unnamed: 0":2,
+        "QuestionID":"SOPavailability",
+        "Question":"Does the site have an instrument reprocessing SOP available\n(reviewer should visually verify)?",
+        "Category":"Leadership",
+        "SubCategory":"POC Competency"
+    },
+    {
+        "Unnamed: 0":3,
+        "QuestionID":"leadershipComment",
+        "Question":"Comments and Recommendations",
+        "Category":"Leadership",
+        "SubCategory":"POC Competency"
+    },
+    {
+        "Unnamed: 0":4,
+        "QuestionID":"instrumentsRinsed",
+        "Question":"Were the instruments rinsed or wiped off with a damp gauze\nto remove gross contamination immediately after the case?",
+        "Category":"Pre-Cleaning",
+        "SubCategory":"Instruments Pre-Cleaning"
+    },
+    {
+        "Unnamed: 0":5,
+        "QuestionID":"comunicatingInstrumentProblems",
+        "Question":"Is there a process to flag and communicate instrument\nproblems (e.g., dull scissors or non-locking clamp)?",
+        "Category":"Pre-Cleaning",
+        "SubCategory":"Instruments Pre-Cleaning"
+    },
+    {
+        "Unnamed: 0":6,
+        "QuestionID":"prolongedInstrumentSoaking",
+        "Question":"Was prolonged instrument soaking (>10 minutes) avoided?\n(soaking instruments prior to cleaning is not recommended, however, if it is done,\nit should be <10 minutes",
+        "Category":"Pre-Cleaning",
+        "SubCategory":"Instruments Pre-Cleaning"
+    },
+    {
+        "Unnamed: 0":7,
+        "QuestionID":"disinfectantAvoided",
+        "Question":"If soaking was used, was the use of saline, chlorine, or\ndisinfectant avoided? (plain water or detergent (soap) are ok; please note that\nsoaking in any chlorine solution, a common procedure in the past, should not be\ndone)",
+        "Category":"Pre-Cleaning",
+        "SubCategory":"Instruments Pre-Cleaning"
+    },
+    {
+        "Unnamed: 0":8,
+        "QuestionID":"instrumentsLeftOpen",
+        "Question":"Were instruments left open (i.e., jaws not clamped shut) during\nand after pre-cleaning? (If instruments are clamped shut, closed surfaces and\nhinges cannot be cleaned which allows organic material to dry and become stuck)",
+        "Category":"Pre-Cleaning",
+        "SubCategory":"Instruments Pre-Cleaning"
+    },
+    {
+        "Unnamed: 0":9,
+        "QuestionID":"transportationofInstruments",
+        "Question":"Were instruments transported from point of use to cleaning\narea in a leak-proof, puncture-proof, and covered container?",
+        "Category":"Pre-Cleaning",
+        "SubCategory":"Instruments Pre-Cleaning"
+    },
+    {
+        "Unnamed: 0":10,
+        "QuestionID":"instrumentsKeptMoist",
+        "Question":"Were instruments kept moist the entire time between end of\ncase and cleaning?",
+        "Category":"Pre-Cleaning",
+        "SubCategory":"Instruments Pre-Cleaning"
+    },
+    {
+        "Unnamed: 0":11,
+        "QuestionID":"PreCleaningComment",
+        "Question":"Comments and Recommendations",
+        "Category":"Pre-Cleaning",
+        "SubCategory":"Instruments Pre-Cleaning"
+    },
+    {
+        "Unnamed: 0":12,
+        "QuestionID":"appropriatePPE",
+        "Question":"Was appropriate PPE (hair cover, eye\/mouth protection,\nimpermeable gown, gloves, closed shoes) worn during cleaning?",
+        "Category":"Cleaning",
+        "SubCategory":"Instruments Cleaning"
+    },
+    {
+        "Unnamed: 0":13,
+        "QuestionID":"cleanContainerWithWater",
+        "Question":"Was a clean container filled with an appropriate amount of water\nand detergent to allow complete immersion of the instruments?",
+        "Category":"Cleaning",
+        "SubCategory":"Instruments Cleaning"
+    },
+    {
+        "Unnamed: 0":14,
+        "QuestionID":"instrumentsCleaned",
+        "Question":"Were the instruments cleaned using a soft (nylon) bristle brush\nunder the surface of the water (to avoid producing aerosols)?",
+        "Category":"Cleaning",
+        "SubCategory":"Instruments Cleaning"
+    },
+    {
+        "Unnamed: 0":15,
+        "QuestionID":"hingedInstrumentsOpened",
+        "Question":"Were all hinged instruments opened during cleaning?",
+        "Category":"Cleaning",
+        "SubCategory":"Instruments Cleaning"
+    },
+    {
+        "Unnamed: 0":16,
+        "QuestionID":"instrumentsImmersedWithCleanWater",
+        "Question":"Were instruments immersed or rinsed thoroughly with clean\nwater after cleaning with the brush? (soft (e.g., distilled) water preferable if\navailable to prevent deposits and buildup on instruments)",
+        "Category":"Cleaning",
+        "SubCategory":"Instruments Cleaning"
+    },
+    {
+        "Unnamed: 0":17,
+        "QuestionID":"instrumentsInspectedAfterCleaning",
+        "Question":"Were instruments closely inspected after cleaning, prior to drying,\nto make sure all visible contamination had been removed?",
+        "Category":"Cleaning",
+        "SubCategory":"Instruments Cleaning"
+    },
+    {
+        "Unnamed: 0":18,
+        "QuestionID":"instrumentsCleanedinArea",
+        "Question":"Were instruments cleaned in an area that is adequately\nilluminated? (the inspection area should have adequate illumination (natural light\nmay be adequate,) to see small amounts of contamination)",
+        "Category":"Cleaning",
+        "SubCategory":"Instruments Cleaning"
+    },
+    {
+        "Unnamed: 0":19,
+        "QuestionID":"instrumentsAirDried",
+        "Question":"Were instruments air-dried or dried by hand with a clean, non-linting cloth?",
+        "Category":"Cleaning",
+        "SubCategory":"Instruments Cleaning"
+    },
+    {
+        "Unnamed: 0":20,
+        "QuestionID":"instrumentsCleaningArea",
+        "Question":"Was the overall flow of instruments in the cleaning area\nunidirectional from \u201cdirty\u201d to \u201cclean\u201d",
+        "Category":"Cleaning",
+        "SubCategory":"Instruments Cleaning"
+    },
+    {
+        "Unnamed: 0":21,
+        "QuestionID":"separationofInstruments",
+        "Question":"If both reusable and single use instruments are used, is there an\nestablished way these are separated and distinguished from one another?\n(Assessor should ask for a description of this process. Single use instruments are\ntypically marked by the words \u201csingle use\u201d or the number '2' with a strike through\nit).",
+        "Category":"Cleaning",
+        "SubCategory":"Instruments Cleaning"
+    },
+    {
+        "Unnamed: 0":22,
+        "QuestionID":"cleaningComment",
+        "Question":"Comments and Recommendations",
+        "Category":"Cleaning",
+        "SubCategory":"Instruments Cleaning"
+    },
+    {
+        "Unnamed: 0":23,
+        "QuestionID":"properFunctionCheck",
+        "Question":"Were instruments checked for proper functioning, and\nlubricated as necessary to allow free movement at hinges, prior to packaging?",
+        "Category":"Packaging",
+        "SubCategory":"Instruments Packaging"
+    },
+    {
+        "Unnamed: 0":24,
+        "QuestionID":"kitsCompleteness",
+        "Question":"Are kits assembled to ensure completeness and standard\ncontents? (sites often have an instrument list posted in the packaging area as a\njob aid)",
+        "Category":"Packaging",
+        "SubCategory":"Instruments Packaging"
+    },
+    {
+        "Unnamed: 0":25,
+        "QuestionID":"permeabletoSterilisation",
+        "Question":"Is the packaging material permeable to the sterilizing agent (e.g.,\nsteam)? Packaging material examples include: double layer of lint-free dense\nwoven cloth (\u2265140 threads\/inch2\n), unwoven cloth permeable to steam (i.e.,\nsterilization wrap), surgical-grade paper (not recycled paper or newspaper), or\nrigid reusable sterilization containers.",
+        "Category":"Packaging",
+        "SubCategory":"Instruments Packaging"
+    },
+    {
+        "Unnamed: 0":26,
+        "QuestionID":"packagingEnclose",
+        "Question":"Does packaging securely enclose items to be sterilized?",
+        "Category":"Packaging",
+        "SubCategory":"Instruments Packaging"
+    },
+    {
+        "Unnamed: 0":27,
+        "QuestionID":"packagingMantainSterility",
+        "Question":"Does packaging maintain sterility of contents until opened\n(doesn\u2019t easily puncture or allow contamination inside)?",
+        "Category":"Packaging",
+        "SubCategory":"Instruments Packaging"
+    },
+    {
+        "Unnamed: 0":28,
+        "QuestionID":"packageExternalChemicalIndicator",
+        "Question":"Does every package have an external chemical indicator?\n(external chemical indicators show when a package has been exposed to one or\nmore sterilization parameters such as temperature, pressure, time; external\nindicators are used to differentiate processed and non-processed items)",
+        "Category":"Packaging",
+        "SubCategory":"Instruments Packaging"
+    },
+    {
+        "Unnamed: 0":29,
+        "QuestionID":"packageInternalChemicalIndicator",
+        "Question":"Does every package contain an internal chemical indicator?\n(internal chemical indicators show that the instruments themselves, not just the\noutside of the package, were exposed to one or more sterilization parameters)\nindicators are used to differentiate processed and non-processed items)",
+        "Category":"Packaging",
+        "SubCategory":"Instruments Packaging"
+    },
+    {
+        "Unnamed: 0":30,
+        "QuestionID":"packageExpiryDate",
+        "Question":"Is every package labeled with sterilization date and\/or expiry\ndate, contents (e.g., \u201cvmmc kit\u201d), and load number?",
+        "Category":"Packaging",
+        "SubCategory":"Instruments Packaging"
+    },
+    {
+        "Unnamed: 0":31,
+        "QuestionID":"packagingComment",
+        "Question":"Comments and Recommendations",
+        "Category":"Packaging",
+        "SubCategory":"Instruments Packaging"
+    },
+    {
+        "Unnamed: 0":32,
+        "QuestionID":"steamSterilisation",
+        "Question":"Is steam sterilization in use? If yes, answer the following:",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":33,
+        "QuestionID":"autoclaveTraining",
+        "Question":"Has the person responsible for operating the autoclave\nreceived training on how to do so? (Sometimes facility staff, not VMMC staff, run\nthe autoclave. This question explores presence and type of training they received.\nPlease check documentation (e.g., training certificate) if available.)",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":34,
+        "QuestionID":"cycleTemperature",
+        "Question":"Is cycle temperature either pre-set by load type or, if manually\nset, to at least 121\u2070C ? Cycle times will vary (3-18 minutes) depending on\ntemperature (121\u2070C - 135\u2070C), please refer to manufacturer\u2019s instructions for use, if\navailable, to check that manually set time is correct for temp.",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":35,
+        "QuestionID":"cycleParametersinLogBook",
+        "Question":"Are the following cycle parameters recorded in a logbook?",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":36,
+        "QuestionID":"autoclaveSteamContact",
+        "Question":"Is the autoclave loaded in a manner to ensure steam contact\nand penetration? (not overloaded, packages away from chamber walls, rigid\ncontainers not stacked unless validated by manufacturer for this configuration,\nsteri-peel packages on edge with multiple packages placed paper-to-plastic, non perforated containers placed on edge)",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":37,
+        "QuestionID":"correctCycleParametersMet",
+        "Question":"Correct cycle parameters met? (if pre-set parameters, could\njust mean the \u2018failure\u2019 indicator did not light up)\nindicators are used to differentiate processed and non-processed items)",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":38,
+        "QuestionID":"externalIndicatorsAprropriatelyChanged",
+        "Question":"External indicators appropriately changed?",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":39,
+        "QuestionID":"noVisibleMoisture",
+        "Question":"No visible signs of moisture? (no dampness, droplets, or\npuddles on or within a package)",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":40,
+        "QuestionID":"noCompromisedIntegrity",
+        "Question":"No visible signs of compromised package integrity?",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":41,
+        "QuestionID":"bowie-dickTest",
+        "Question":"Bowie-Dick test (measures air removal in pre-vacuum autoclaves,\nnot used in gravity displacement autoclaves; ideally performed\ndaily)",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":42,
+        "QuestionID":"biologicalIndicator",
+        "Question":"Biological indicators (please make note how often these are used\n(ideally should be daily, but at least weekly)",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":43,
+        "QuestionID":"distilledWater",
+        "Question":"Is distilled water being used in the autoclave? (most autoclave\nmanufacturers recommend use of distilled water to avoid mineral deposits which\ncan decrease useable life of the autoclave)",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":44,
+        "QuestionID":"distilledWaterInventory",
+        "Question":"Over the past 6 months has the distilled water inventory\nbeen maintained to ensure uninterrupted services?",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":45,
+        "QuestionID":"annualRoutineMaintenance",
+        "Question":"Is there documentation of at least annual routine maintenance\nperformed by a technician? (if \u201cno\u201d then please ask follow-up question about why\nthis was not done)",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":46,
+        "QuestionID":"flowofInstrumentsinSterilisationArea",
+        "Question":"Was the overall flow of instruments in the sterilization area\nunidirectional from \u201cnon-sterile\u201d to \u201csterile\u201d?",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":47,
+        "QuestionID":"indicatorswithinExpirationDates",
+        "Question":"Are all biologic and chemical indicators within their expiration\ndates?",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":48,
+        "QuestionID":"reprocessingofEquipment",
+        "Question":"Over the past 6 months has the reprocessing equipment and\nsupplied inventory been maintained to ensure uninterrupted services?",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":49,
+        "QuestionID":"copy-1-of-reprocessingofEquipment",
+        "Question":"Over the past 6 months has the reprocessing equipment and\nsupplied inventory been maintained to ensure uninterrupted services?1",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":50,
+        "QuestionID":"sterilisationComment",
+        "Question":"Comments and Recommendations",
+        "Category":"Sterilization",
+        "SubCategory":"Instruments Sterilization"
+    },
+    {
+        "Unnamed: 0":51,
+        "QuestionID":"is_the_portion_of_the_transport_vehicle_where_instrument_containers_are_pla",
+        "Question":"Is the portion of the transport vehicle where instrument\ncontainers are placed completely enclosed?",
+        "Category":"External Transportation",
+        "SubCategory":"Instruments Transportation"
+    },
+    {
+        "Unnamed: 0":52,
+        "QuestionID":"markingofContainers",
+        "Question":"Are the containers for sterile and non-sterile instruments\nclearly marked?",
+        "Category":"External Transportation",
+        "SubCategory":"Instruments Transportation"
+    },
+    {
+        "Unnamed: 0":53,
+        "QuestionID":"interSiteInstrumentExchangeSy",
+        "Question":"Is a system in place to track movement of instrument kits\nbetween sites, and know where they are at all times? (for example, to find where\nall kits sterilized on x date in cycle number y are located; if one kit from a specific\nload is noted to have problems, it will be important to immediately identify all the\nother kits that were in the same load).",
+        "Category":"External Transportation",
+        "SubCategory":"Instruments Transportation"
+    },
+    {
+        "Unnamed: 0":54,
+        "QuestionID":"transportationComment",
+        "Question":"Comments and Recommendations",
+        "Category":"External Transportation",
+        "SubCategory":"Instruments Transportation"
+    },
+    {
+        "Unnamed: 0":55,
+        "QuestionID":"are_freshly_sterilized_instruments_allowed_to_cool_to_room_temperature_befo",
+        "Question":"Are freshly sterilized instruments allowed to cool to room\ntemperature before they are used for surgery?",
+        "Category":"Storage",
+        "SubCategory":"Instruments Storage"
+    },
+    {
+        "Unnamed: 0":56,
+        "QuestionID":"firstInfirstOut",
+        "Question":"Is a practice of first in first out used to ensure that older kits (by\ndate of sterilization) are used first?",
+        "Category":"Storage",
+        "SubCategory":"Instruments Storage"
+    },
+    {
+        "Unnamed: 0":57,
+        "QuestionID":"inventoryMonitoringSystem",
+        "Question":"Is there an inventory monitoring system that tracks the movement\nof kits in and out of the storage or sterilization area?",
+        "Category":"Storage",
+        "SubCategory":"Instruments Storage"
+    },
+    {
+        "Unnamed: 0":58,
+        "QuestionID":"comments_and_recommendations",
+        "Question":"Comments and Recommendations",
+        "Category":"Storage",
+        "SubCategory":"Instruments Storage"
+    }
+]
