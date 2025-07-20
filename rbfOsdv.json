@@ -12,7 +12,7 @@
         "SubCategory":"Adequacy of Staffing"
     },
     {
-        "QuestionID":"darkClerk",
+        "QuestionID":"vmmcDataClerk",
         "Question":"Is there a Health Worker trained as a Data Clerk\/Receptionist",
         "Category":"Human Resources",
         "SubCategory":"Adequacy of Staffing"
@@ -54,7 +54,7 @@
         "SubCategory":"Facility and Supplies"
     },
     {
-        "QuestionID":"darkClerk.1",
+        "QuestionID":"spaceandClientFlow",
         "Question":"Are space and client flow arranged to allow all the following steps to take place without affecting client privacy",
         "Category":"Facilities",
         "SubCategory":"Facility and Supplies"
@@ -176,6 +176,12 @@
     {
         "QuestionID":"month_year_repeat_group",
         "Question":"Triangulating Data across VMMC source documents",
+        "Category":"Client Record Review",
+        "SubCategory":"Data Triangulation"
+    },
+    {
+        "QuestionID":"comments_and_recommendations_data_triangulation",
+        "Question":"Comments and Recommendations",
         "Category":"Client Record Review",
         "SubCategory":"Data Triangulation"
     }
